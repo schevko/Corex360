@@ -32,6 +32,8 @@ export function LocaleSwitcher() {
     return () => document.removeEventListener("mousedown", onClick);
   }, []);
 
+  if (routing.locales.length <= 1) return null;
+
   const switchTo = (next: string) => {
     setOpen(false);
     // @ts-expect-error -- params shape is route-dependent; next-intl handles it.

@@ -14,6 +14,8 @@ export function LocaleSwitcherInline() {
   const [isPending, startTransition] = useTransition();
   const current = (params.locale as string) ?? routing.defaultLocale;
 
+  if (routing.locales.length <= 1) return null;
+
   function switchTo(locale: string) {
     if (locale === current) return;
     startTransition(() => {
