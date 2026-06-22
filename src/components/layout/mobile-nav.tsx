@@ -45,9 +45,12 @@ export function MobileNav() {
 
   return (
     <>
+      {/* Fixed (not sticky) so it floats over the full-bleed hero instead of
+          pushing it down — otherwise topbar + 100svh hero overflows the screen
+          and the hero's bottom CTA is hidden on first paint. */}
       <header
         className={cn(
-          "sticky top-0 z-40 flex items-center justify-between border-b border-border bg-background/80 px-6 py-4 backdrop-blur-md transition-transform duration-300 ease-out will-change-transform lg:hidden",
+          "fixed inset-x-0 top-0 z-40 flex items-center justify-between border-b border-border bg-background/80 px-6 py-4 backdrop-blur-md transition-transform duration-300 ease-out will-change-transform lg:hidden",
           hidden && "-translate-y-full"
         )}
       >

@@ -24,7 +24,7 @@ export const navItems: { href: string; key: string }[] = [
   { href: "/about", key: "about" },
   { href: "/solutions", key: "solutions" },
   { href: "/modules", key: "modules" },
-  { href: "/pricing", key: "pricing" },
+  // Pricing temporarily hidden from the sidebar nav — page still exists.
   { href: "/resources", key: "current" },
   { href: "/contact", key: "contact" },
 ];

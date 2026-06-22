@@ -44,7 +44,7 @@ export function SidebarContent({ onNavigate }: { onNavigate?: () => void }) {
         </a>
 
         <Link
-          href="/app"
+          href="/demo"
           onClick={onNavigate}
           className="group flex w-full items-center justify-center gap-2.5 rounded-full bg-foreground px-6 py-3.5 text-xs font-medium uppercase tracking-[0.16em] text-background transition-all duration-300 hover:shadow-[var(--shadow-glow)]"
         >
@@ -80,13 +80,23 @@ export function SidebarContent({ onNavigate }: { onNavigate?: () => void }) {
           <p className="text-[10px] font-semibold tracking-wide text-muted-2">
             {tf("copyright", { year: 2026 })}
           </p>
-          <Link
-            href="/"
-            onClick={onNavigate}
-            className="text-[10px] tracking-wide text-muted-2 transition-colors duration-300 hover:text-foreground"
-          >
-            {tf("privacy")} · {tf("terms")}
-          </Link>
+          <p className="text-[10px] tracking-wide text-muted-2">
+            <Link
+              href="/legal/privacy"
+              onClick={onNavigate}
+              className="transition-colors duration-300 hover:text-foreground"
+            >
+              {tf("privacy")}
+            </Link>
+            {" · "}
+            <Link
+              href="/legal/terms"
+              onClick={onNavigate}
+              className="transition-colors duration-300 hover:text-foreground"
+            >
+              {tf("terms")}
+            </Link>
+          </p>
         </div>
       </div>
     </div>

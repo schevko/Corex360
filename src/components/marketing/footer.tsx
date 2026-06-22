@@ -45,10 +45,10 @@ export function Footer() {
     {
       title: t("legal"),
       links: [
-        { label: t("privacy"), href: "/" },
-        { label: t("terms"), href: "/" },
-        { label: t("kvkk"), href: "/" },
-        { label: t("cookies"), href: "/" },
+        { label: t("privacy"), href: "/legal/privacy" },
+        { label: t("terms"), href: "/legal/terms" },
+        { label: t("kvkk"), href: "/legal/privacy" },
+        { label: t("cookies"), href: "/legal/privacy#madde-6" },
       ],
     },
   ];
