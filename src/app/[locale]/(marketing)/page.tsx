@@ -1,5 +1,5 @@
 import { setRequestLocale } from "next-intl/server";
-import { HeroSlider } from "@/components/marketing/hero-slider";
+import { HeroVideo } from "@/components/marketing/hero-video";
 import { QuoteMetrics } from "@/components/marketing/quote-metrics";
 import { SoftwareIntro } from "@/components/marketing/software-intro";
 
@@ -13,7 +13,7 @@ export default async function HomePage({
 
   return (
     <>
-      <HeroSlider />
+      <HeroVideo />
       <QuoteMetrics />
       <SoftwareIntro />
     </>
