@@ -1,0 +1,1657 @@
+{
+  "meta": {
+    "title": "Corex360 — CRM · ERP · İş Zekâsı tek bir platformda",
+    "description": "Corex360, satıştan stoğa, finanstan tahminlemeye tüm operasyonunuzu tek bir gerçeklik katmanında birleştirir. Gerçek zamanlı, yapay zekâ destekli, 360° iş zekâsı.",
+    "ogAlt": "Corex360 — birleşik CRM, ERP ve iş zekâsı platformu"
+  },
+  "common": {
+    "brand": "Corex360",
+    "tagline": "İşletmenizin 360° gerçeklik katmanı",
+    "email": "merhaba@corex360.com",
+    "phone": "0216 475 39 37",
+    "address": "Maslak, Sarıyer / İstanbul",
+    "loading": "Yükleniyor",
+    "comingSoon": "Çok yakında"
+  },
+  "nav": {
+    "home": "Giriş",
+    "solutions": "Çözümler",
+    "current": "Corex Güncel",
+    "product": "Ürün",
+    "modules": "Modüller",
+    "pricing": "Fiyatlandırma",
+    "resources": "Kaynaklar",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "signin": "Giriş yap",
+    "launchApp": "Paneli aç",
+    "getDemo": "Demo Oluştur",
+    "menu": "Menü",
+    "close": "Kapat"
+  },
+  "hero": {
+    "eyebrow": "CRM · ERP · İş Zekâsı — tek platform",
+    "titlePre": "Bir işletmeyi",
+    "titleAccent": "360°",
+    "titlePost": "yönetin.",
+    "body": "Corex360 satışı, operasyonu ve finansı canlı bir veri katmanında buluşturur. Dağınık tablolar yerine; gerçek zamanlı, yapay zekâ destekli, 360° bir görüş.",
+    "ctaPrimary": "Ücretsiz başla",
+    "ctaSecondary": "Canlı demoyu izle",
+    "badge": "Kurulum gerektirmez · 14 gün ücretsiz",
+    "stats": {
+      "uptime": "Çalışma süresi",
+      "uptimeValue": "%99,98",
+      "latency": "Sorgu gecikmesi",
+      "latencyValue": "<40ms",
+      "teams": "Aktif ekip",
+      "teamsValue": "12.000+"
+    }
+  },
+  "intro": {
+    "label": "Corex360 nedir",
+    "title": "Dağınık araçlar değil, işletmenizin tek gerçeklik katmanı.",
+    "body": "Corex360; CRM, ERP ve iş zekâsını WhatsApp, Instagram, web sitesi, santral, araç takip ve dosyalama gibi tüm süreçlerle tek bir canlı veride birleştirir. Müşteriyle her temas, sahadaki her araç ve her rakam aynı ekranda; yönetici işin tamamını tek yerden görür, çalışan ayrılsa da bilgi şirkette kalır."
+  },
+  "slider": {
+    "slides": {
+      "unify": {
+        "title": "Bir işletmeyi 360° yönetin.",
+        "sub": "CRM, ERP ve iş zekâsı — dağınık programlar değil, tek platform."
+      },
+      "inbox": {
+        "title": "Tüm kanallar tek gelen kutusunda.",
+        "sub": "WhatsApp, Instagram, web ve santral; her mesaj tek ekranda, hiçbiri kaçmaz."
+      },
+      "decide": {
+        "title": "Kararı veriyle, anında alın.",
+        "sub": "Canlı panolar, yapay zekâ tahminleme ve anomali uyarıları."
+      },
+      "field": {
+        "title": "Sahadan ofise tek akış.",
+        "sub": "Araç takip, dosyalama ve operasyon — hepsi birbirine bağlı."
+      }
+    },
+    "items": {
+      "overview": {
+        "alt": "Corex360 ile şirketinizi dijitalde 360° yönetin — tüm modüller tek merkezde."
+      },
+      "crm": {
+        "alt": "Satış ve CRM yönetimi: lead'den müşteriye uzanan tüm süreç tek akışta."
+      },
+      "omnichannel": {
+        "alt": "Omnichannel yönetim: tüm iletişim kanalları tek merkezde."
+      }
+    }
+  },
+  "trust": {
+    "label": "Büyüyen ekiplerin tercihi"
+  },
+  "modules": {
+    "label": "360° Platform",
+    "title": "Üç güç, tek çekirdek",
+    "body": "Ayrı yazılımlar yerine tek bir veri çekirdeği. Müşteri, operasyon ve karar — aynı anda, aynı doğrulukta.",
+    "explore": "İncele",
+    "items": {
+      "crm": {
+        "name": "CRM",
+        "tagline": "Müşteri ilişkileri",
+        "description": "Adaydan sadık müşteriye kadar tüm yolculuğu tek ekranda yönetin. Pipeline, otomasyon ve 360° müşteri kartı.",
+        "points": [
+          "Görsel satış pipeline'ı",
+          "Otomatik takip ve hatırlatma",
+          "360° müşteri zaman çizelgesi",
+          "E-posta & WhatsApp entegrasyonu"
+        ]
+      },
+      "erp": {
+        "name": "ERP",
+        "tagline": "Operasyon & kaynak",
+        "description": "Stok, satın alma, üretim ve finansı tek akışta birleştirin. Departmanlar arası kopukluk biter.",
+        "points": [
+          "Gerçek zamanlı stok takibi",
+          "Satın alma & tedarik yönetimi",
+          "Faturalandırma ve finans",
+          "Çok depolu, çok şubeli yapı"
+        ]
+      },
+      "bi": {
+        "name": "İş Zekâsı",
+        "tagline": "Karar & tahmin",
+        "description": "Ham veriyi karara dönüştürün. Canlı panolar, anomali tespiti ve yapay zekâ destekli tahminleme.",
+        "points": [
+          "Sürükle-bırak panolar",
+          "Yapay zekâ tahminleme",
+          "Anomali & uyarı motoru",
+          "Doğal dille sorgulama"
+        ]
+      }
+    }
+  },
+  "features": {
+    "label": "Neden Corex360",
+    "title": "Detayda derinlik, kullanımda sadelik",
+    "body": "Karmaşık altyapı; sade bir deneyim. Kurumsal gücü, küçük ekibin hızıyla kullanın.",
+    "items": {
+      "realtime": {
+        "title": "Gerçek zamanlı",
+        "description": "Veriler saniyeler içinde değil, anında. Her panel canlı; yenilemeye gerek yok."
+      },
+      "ai": {
+        "title": "Yapay zekâ çekirdeği",
+        "description": "Tahminleme, özetleme ve doğal dil sorguları platformun içine gömülü."
+      },
+      "automation": {
+        "title": "Otomasyon",
+        "description": "Tekrarlayan işleri kurallarla otomatikleştirin; ekibiniz değerli işe odaklansın."
+      },
+      "security": {
+        "title": "Kurumsal güvenlik",
+        "description": "SOC 2, KVKK & GDPR uyumu, rol bazlı erişim ve uçtan uca şifreleme."
+      },
+      "integrations": {
+        "title": "120+ entegrasyon",
+        "description": "Kullandığınız araçlarla tek tıkla bağlanın; veriniz tek yerde toplanır."
+      },
+      "global": {
+        "title": "Küresel & çok dilli",
+        "description": "Çoklu para birimi, çoklu dil ve bölgesel uyum; ilk günden küresel."
+      }
+    }
+  },
+  "preview": {
+    "label": "Canlı panel",
+    "title": "Kararlar tek ekrandan",
+    "body": "Satış, nakit akışı ve operasyon tek bir komuta merkezinde. Gerçek verinin nasıl göründüğünü görün.",
+    "kpis": {
+      "revenue": "Aylık gelir",
+      "deals": "Açık fırsatlar",
+      "churn": "Müşteri kaybı",
+      "nps": "NPS skoru"
+    },
+    "chartTitle": "Gelir akışı",
+    "chartSub": "Son 12 ay",
+    "live": "Canlı",
+    "openApp": "Paneli aç"
+  },
+  "metrics": {
+    "title": "Rakamlarla Corex360",
+    "items": {
+      "founded": {
+        "value": "2021",
+        "label": "Kuruluş"
+      },
+      "teams": {
+        "value": "12K+",
+        "label": "Aktif ekip"
+      },
+      "countries": {
+        "value": "38",
+        "label": "Ülke"
+      },
+      "uptime": {
+        "value": "%99,98",
+        "label": "Çalışma süresi"
+      }
+    }
+  },
+  "pricing": {
+    "label": "Fiyatlandırma",
+    "title": "Ölçeğinize göre büyüyen plan",
+    "body": "Şeffaf fiyat, gizli maliyet yok. İstediğiniz an yükseltin veya düşürün.",
+    "monthly": "Aylık",
+    "yearly": "Yıllık",
+    "yearlyNote": "2 ay bedava",
+    "perUserMonth": "kullanıcı / ay",
+    "custom": "Özel",
+    "mostPopular": "En popüler",
+    "tiers": {
+      "starter": {
+        "name": "Başlangıç",
+        "desc": "Küçük ekipler ve yeni başlayanlar için.",
+        "cta": "Ücretsiz başla",
+        "features": [
+          "5 kullanıcıya kadar",
+          "CRM çekirdeği",
+          "Temel panolar",
+          "Topluluk desteği"
+        ]
+      },
+      "growth": {
+        "name": "Büyüme",
+        "desc": "Hızlanan ekipler için tam güç.",
+        "cta": "14 gün dene",
+        "features": [
+          "Sınırsız kullanıcı",
+          "CRM + ERP + İş Zekâsı",
+          "Yapay zekâ tahminleme",
+          "Otomasyon motoru",
+          "Öncelikli destek"
+        ]
+      },
+      "enterprise": {
+        "name": "Kurumsal",
+        "desc": "Büyük organizasyonlar ve özel ihtiyaçlar.",
+        "cta": "Bizimle görüşün",
+        "features": [
+          "Özel SLA & dağıtım",
+          "SSO & gelişmiş güvenlik",
+          "Özel entegrasyonlar",
+          "Adanmış müşteri yöneticisi",
+          "Yerinde eğitim"
+        ]
+      }
+    }
+  },
+  "faq": {
+    "label": "Sık sorulanlar",
+    "title": "Aklınızdaki sorular",
+    "items": {
+      "data": {
+        "q": "Verilerim güvende mi?",
+        "a": "Tüm veriler uçtan uca şifrelenir, SOC 2 ve KVKK/GDPR uyumlu altyapıda saklanır. Verinizin sahibi her zaman sizsiniz."
+      },
+      "migration": {
+        "q": "Mevcut sistemden geçiş zor mu?",
+        "a": "Hayır. Excel, mevcut CRM/ERP ve 120+ araçtan tek tıkla içe aktarım sunarız; ekibimiz geçişte size eşlik eder."
+      },
+      "security": {
+        "q": "Erişim yetkilerini yönetebilir miyim?",
+        "a": "Evet. Rol bazlı erişim, ekip ve departman izinleri, denetim kaydı ve SSO kurumsal planda standarttır."
+      },
+      "pricing": {
+        "q": "Gizli ücret var mı?",
+        "a": "Yok. Gördüğünüz fiyat ödediğiniz fiyattır. İstediğiniz an planı değiştirebilir veya iptal edebilirsiniz."
+      },
+      "support": {
+        "q": "Destek nasıl çalışıyor?",
+        "a": "Tüm planlarda Türkçe destek; Büyüme ve Kurumsal'da öncelikli ve adanmış destek sunarız."
+      },
+      "ai": {
+        "q": "Yapay zekâ özellikleri neler yapıyor?",
+        "a": "Satış tahminleme, anomali tespiti, otomatik özetleme ve doğal dille (\"geçen çeyrek en çok kim sattı?\") sorgulama yapabilirsiniz."
+      }
+    }
+  },
+  "cta": {
+    "label": "Hazır mısınız?",
+    "title": "İşletmenizin 360° görüşü\nbir tık uzakta",
+    "body": "Kredi kartı gerekmez. 14 gün boyunca tüm özellikleri ücretsiz deneyin.",
+    "primary": "Ücretsiz başla",
+    "secondary": "Satışla görüş",
+    "circleTitle": "Karmaşayı bırakın,",
+    "circleAccent": "düzeni kurun.",
+    "circleAction": "Hemen Başlayın"
+  },
+  "certs": {
+    "label": "Sertifikalar & Uyumluluk",
+    "infosec": "Bilgi Güvenliği",
+    "quality": "Kalite Yönetimi",
+    "compliance": "Uyumluluk",
+    "dataprotection": "Veri Koruma"
+  },
+  "footer": {
+    "tagline": "Tüm işletmeniz tek bir gerçeklik katmanında.",
+    "product": "Ürün",
+    "company": "Şirket",
+    "resources": "Kaynaklar",
+    "legal": "Yasal",
+    "newsletter": "Bültene katılın",
+    "newsletterBody": "Ürün güncellemeleri ve iş zekâsı içerikleri — ayda bir, spam yok.",
+    "emailPlaceholder": "E-posta adresiniz",
+    "subscribe": "Katıl",
+    "copyright": "© {year} Corex360. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "cookies": "Çerez Politikası",
+    "kvkk": "KVKK",
+    "madeIn": "Türkiye'de ❤️ ile yapılmıştır",
+    "links": {
+      "modules": "Modüller",
+      "pricing": "Fiyatlandırma",
+      "changelog": "Sürüm notları",
+      "status": "Sistem durumu",
+      "about": "Hakkımızda",
+      "careers": "Kariyer",
+      "contact": "İletişim",
+      "blog": "Blog",
+      "docs": "Dokümantasyon",
+      "guides": "Rehberler",
+      "api": "API"
+    }
+  },
+  "app": {
+    "nav": {
+      "overview": "Genel bakış",
+      "customers": "Müşteriler",
+      "sales": "Satış",
+      "inventory": "Stok",
+      "analytics": "Analitik",
+      "automation": "Otomasyon",
+      "settings": "Ayarlar"
+    },
+    "backToSite": "Siteye dön",
+    "search": "Ara veya komut çalıştır…",
+    "greeting": "Tekrar hoş geldiniz",
+    "subtitle": "İşte bugünkü komuta merkeziniz.",
+    "period": "Son 30 gün",
+    "kpis": {
+      "revenue": "Gelir",
+      "deals": "Kapanan fırsat",
+      "customers": "Yeni müşteri",
+      "churn": "Müşteri kaybı"
+    },
+    "revenueChart": "Gelir akışı",
+    "pipeline": "Satış pipeline'ı",
+    "recentActivity": "Son hareketler",
+    "topProducts": "En çok satanlar",
+    "vsLastPeriod": "önceki döneme göre",
+    "demoNote": "Bu, örnek verilerle çalışan bir önizleme panelidir."
+  },
+  "commandCenter": {
+    "title": "Sekiz ayrı program yerine tek komuta merkezi",
+    "body": "WhatsApp mesajı, Instagram yorumu, santral çağrısı, web formu, sahadaki araç ve imzalanacak sözleşme — hepsi farklı yerlerde değil, aynı ekranda.",
+    "live": "Canlı",
+    "channelsLabel": "Gelen kanallar",
+    "opsLabel": "Operasyon",
+    "ch": {
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram",
+      "social": "Sosyal Medya",
+      "web": "Web Sitesi",
+      "santral": "Santral"
+    },
+    "op": {
+      "arac": "Araç Takip",
+      "dosya": "Dosyalama",
+      "crm": "Satış / CRM"
+    },
+    "kpi": {
+      "conv": "Açık konuşma",
+      "calls": "Bugünkü çağrı",
+      "vehicles": "Yoldaki araç"
+    },
+    "inboxTitle": "Tek gelen kutusu",
+    "filesTitle": "Son evraklar",
+    "fleetTitle": "Filo"
+  },
+  "how": {
+    "label": "Nasıl çalışır",
+    "title": "Üç adımda 360° görüş",
+    "body": "Kurulumdan ilk karara kadar dakikalar. Karmaşık entegrasyon projeleri yok.",
+    "steps": [
+      {
+        "no": "01",
+        "title": "Bağlayın",
+        "desc": "Excel, mevcut CRM/ERP ve 120+ aracı tek tıkla içe aktarın. Kurulum dakikalar sürer."
+      },
+      {
+        "no": "02",
+        "title": "Birleştirin",
+        "desc": "Satış, operasyon ve finans tek bir canlı veri katmanında otomatik buluşur."
+      },
+      {
+        "no": "03",
+        "title": "Karara dönüştürün",
+        "desc": "Canlı panolar ve yapay zekâ tahminiyle her kararı veriyle, anında alın."
+      }
+    ]
+  },
+  "manifesto": {
+    "label": "Yaklaşım",
+    "lead": "Dağınık tablolar, kopuk sistemler, geç kalan kararlar. Corex360 hepsini tek bir canlı gerçeklik katmanında bitirir — sade, hızlı, dürüst.",
+    "principles": [
+      {
+        "no": "01",
+        "title": "Tek doğru kaynak",
+        "desc": "Satış, operasyon ve finans aynı veride buluşur; departmanlar arası kopukluk biter."
+      },
+      {
+        "no": "02",
+        "title": "Anlık karar",
+        "desc": "Veri saniyelerle değil, anında akar. Her pano canlı; rapor beklemezsiniz."
+      },
+      {
+        "no": "03",
+        "title": "Sade güç",
+        "desc": "Kurumsal derinlik, küçük ekibin hızıyla. Karmaşıklık altta, sadelik üstte."
+      }
+    ]
+  },
+  "quote": {
+    "text": "Bir işletme verisini gördüğünde değil, ona göre karar aldığında büyür.",
+    "source": "Corex360 Yönetim Kurulu"
+  },
+  "about": {
+    "label": "Hakkımızda",
+    "title": "İşletmeleri 360° yöneten yazılımı Türkiye'den kuruyoruz.",
+    "titlePre": "Karmaşanın ardındaki",
+    "titleEm": "düzen.",
+    "explore": "Keşfet",
+    "lead": "Corex360, işletmelerin dağınık süreçlerini tek bir dijital merkezde birleştiren bütünleşik bir iş yönetim platformudur. Satıştan operasyona, müşteri ilişkilerinden raporlamaya kadar tüm iş akışlarını daha görünür, ölçülebilir ve yönetilebilir hale getirir.",
+    "stat": {
+      "label": "tek platform"
+    },
+    "story": {
+      "label": "Hikâyemiz",
+      "title": "Bir ihtiyaçtan doğdu.",
+      "p1": "Büyüyen işletmelerin farklı yazılımlar, kopuk tablolar ve dağınık iletişim kanalları arasında verim kaybettiğini gördük. Satıştan operasyona, müşteri ilişkilerinden raporlamaya kadar tüm süreçlerin tek merkezden yönetilmesi gerektiğine inandık.",
+      "p2": "Corex360 bu ihtiyaçtan doğdu: CRM, ERP, iş zekâsı ve iletişim kanallarını tek bir canlı veri katmanında birleştiren, ekiplerin günlük iş akışına uyum sağlayan bütünleşik bir yönetim platformu."
+    },
+    "group": {
+      "label": "Kurumsal yapı",
+      "title": "Bir SAVAŞ GRUP iştirakiyiz.",
+      "tag": "Teknoloji iştiraki",
+      "brands": "Grup şirketleri",
+      "body": "Corex360, köklü SAVAŞ GRUP SANAYİ ve TİCARET A.Ş.'nin teknoloji iştirakidir. Grubun sanayi, ticaret ve saha operasyonlarından gelen deneyimini modern yazılım mühendisliğiyle birleştirerek geliştirildi.",
+      "body2": "Bu nedenle Corex360 yalnızca bir yazılım ürünü değil; gerçek işletme ihtiyaçlarından doğan, operasyonun içinden gelen ve büyüyen şirketlerin günlük süreçlerine uyum sağlayan bütünleşik bir yönetim platformudur."
+    },
+    "team": {
+      "title": "İşin içinden bir ekip",
+      "sub": "Farklı disiplinlerden gelen uzmanlığımızı, gerçek iş süreçlerini anlayan bir ürün vizyonuyla birleştiriyoruz.",
+      "badge": "MERKEZ",
+      "careersTitle": "Kariyer",
+      "careersSub": "Bizimle aynı vizyona yürümek ister misiniz?"
+    },
+    "founders": {
+      "label": "Kurucular",
+      "title": "Aynı hedefe bakan iki farklı güç.",
+      "body": "Corex360'ın temelinde, işi sahada okuyan stratejik bakış ile teknolojiyi derinlemesine kurgulayan mühendislik aklı bulunur.",
+      "body2": "Corex360 bugün bu iki gücün birleşimiyle; yalnızca kullanılan değil, işletmelerin karar alma, takip ve büyüme düzenine doğrudan katkı sağlayan bir yönetim platformu olarak konumlanıyor.",
+      "yasin": {
+        "name": "Yasin Savaş",
+        "role": "Kurucu Ortak · Strateji & İş",
+        "bio": "Ticari vizyonu, girişimci refleksi ve işletme süreçlerine olan hâkimiyetiyle platformun yönünü belirliyor."
+      },
+      "sevket": {
+        "name": "Şevket Erer",
+        "role": "Kurucu Ortak · Teknoloji",
+        "bio": "Bu vizyonu güçlü, esnek ve sürdürülebilir bir yazılım altyapısına dönüştüren teknik yapıyı inşa etti."
+      },
+      "close": "Corex360, sahadaki ihtiyacı bizzat yaşamış iki ortağın ortak vizyonuyla yönetiliyor."
+    },
+    "values": {
+      "label": "Değerlerimiz",
+      "items": [
+        {
+          "title": "Sahadan gerçeklik",
+          "desc": "Ürünümüz teoriden değil, gerçek işletmelerin günlük operasyonlarından doğdu."
+        },
+        {
+          "title": "Sadelik",
+          "desc": "Kurumsal gücü, her ekibin rahatça kullanabileceği sade bir deneyimle sunarız."
+        },
+        {
+          "title": "Veriye saygı",
+          "desc": "Verileriniz size aittir; güvenli, şeffaf ve KVKK uyumlu şekilde korunur."
+        }
+      ]
+    },
+    "imageLabel": "Görsel alanı"
+  },
+  "solutions": {
+    "label": "Çözümler",
+    "hero": {
+      "titlePre": "Her işin kendi düzeni var.",
+      "titleEm": "Corex360 hepsine uyar.",
+      "lead": "Lojistikten sağlığa, perakendeden eğitime kadar her sektörün kendine özgü bir ritmi vardır. Corex360 bu ritmi bozmadan satış, operasyon, müşteri ilişkileri ve raporlamayı tek bir canlı veri katmanında birleştirir.",
+      "scrollCue": "Keşfet"
+    },
+    "approach": {
+      "label": "Yaklaşımımız",
+      "title": "Her sektöre ayrı yazılım değil; her sektöre uyarlanan tek platform.",
+      "p1": "Çoğu işletme her ihtiyaç için ayrı bir araç satın alır: biri stok için, biri saha için, biri muhasebe için. Zamanla bu araçlar birbirinden kopuk adacıklara dönüşür ve asıl maliyet lisanslarda değil; kaybolan veride ve tekrar eden işte ortaya çıkar.",
+      "p2": "Corex360 bunun tersini yapar. CRM, ERP ve iş zekâsını tek bir çekirdekte toplar; sektörünüzün diline, ekiplerinizin alışkanlıklarına ve sahadaki gerçeğe göre yapılandırılır.",
+      "coreLabel": "Tek çekirdek, her sektörün diline uyarlanır.",
+      "statValue": "6+",
+      "statLabel": "hazır sektör akışı",
+      "quote": "İşinizi yazılıma değil, yazılımı işinize uydurursunuz."
+    },
+    "sectors": {
+      "label": "Sektörlere göre",
+      "title": "Sizin alanınız için yapılandırıldı.",
+      "lead": "En çok çalıştığımız sektörler için hazır akışlar; ihtiyaca göre dakikalar içinde özelleştirilir.",
+      "items": {
+        "logistics": {
+          "title": "Lojistik & Filo",
+          "desc": "Araç takibi, sürücü yönetimi ve sefer planlamasını tek ekranda toplayın."
+        },
+        "construction": {
+          "title": "İnşaat & Şantiye",
+          "desc": "Saha personeli, ekipman ve proje ilerleyişini gerçek zamanlı izleyin."
+        },
+        "hospitality": {
+          "title": "Konaklama & Turizm",
+          "desc": "Rezervasyon, misafir ilişkileri ve personel akışını uçtan uca yönetin."
+        },
+        "health": {
+          "title": "Sağlık & Klinik",
+          "desc": "Randevu, hasta kaydı ve faturalandırmayı KVKK uyumlu şekilde yürütün."
+        },
+        "retail": {
+          "title": "Perakende & Mağaza",
+          "desc": "Şube yönetimi, stok ve müşteri sadakatini tek panelde birleştirin."
+        },
+        "education": {
+          "title": "Eğitim & Kurum",
+          "desc": "Personel, öğrenci ve doküman yönetimini düzenli bir akışta toplayın."
+        }
+      },
+      "notListedTitle": "Sektörünüzü göremiyor musunuz?",
+      "notListedDesc": "Corex360 sektörden bağımsız bir çekirdek üzerine kuruludur; ihtiyacınızı dinler ve size özel yapılandırırız.",
+      "notListedCta": "Bize ulaşın"
+    },
+    "resources": {
+      "label": "Kaynaklar",
+      "title": "Başlamadan önce keşfedin.",
+      "items": {
+        "stories": {
+          "title": "Müşteri Hikâyeleri",
+          "desc": "Corex360 ile büyüyen şirketlerin başarı öyküleri."
+        },
+        "videos": {
+          "title": "Video Eğitimler",
+          "desc": "Modül tanıtımları ve adım adım kullanıcı kılavuzları."
+        },
+        "docs": {
+          "title": "Dökümantasyon",
+          "desc": "API referansı, entegrasyon rehberleri ve örnekler."
+        },
+        "support": {
+          "title": "7/24 Destek",
+          "desc": "Canlı sohbet, telefon ve e-posta ile kesintisiz destek hattı."
+        }
+      },
+      "webinar": {
+        "tag": "Webinar",
+        "title": "Multi-tenant SaaS mimarisi",
+        "desc": "Her ay canlı oturum — kayıt ücretsiz.",
+        "cta": "Kayıt ol"
+      }
+    },
+    "faq": {
+      "label": "Sık sorulanlar",
+      "title": "Çözümler hakkında",
+      "items": {
+        "sectors": {
+          "q": "Corex360 hangi sektörlere uygun?",
+          "a": "Lojistik, inşaat, konaklama, sağlık, perakende ve eğitim başta olmak üzere süreçleri veriyle yönetilen her işletmeye uyarlanır. Çekirdek sektörden bağımsızdır; akışlar size göre yapılandırılır."
+        },
+        "notListed": {
+          "q": "Kendi sektörümü listede göremiyorum, yine de kullanabilir miyim?",
+          "a": "Evet. Listelenen sektörler en sık çalıştıklarımız; ürün her operasyona uyacak şekilde tasarlandı. İhtiyacınızı paylaşın, size özel bir yapılandırma çıkaralım."
+        },
+        "adapt": {
+          "q": "Sektörüme göre ne kadar sürede uyarlanır?",
+          "a": "Hazır sektör akışları dakikalar içinde devreye girer; özel süreçler için yapılandırma genellikle birkaç gün sürer. Karmaşık entegrasyonlarda ekibimiz uçtan uca eşlik eder."
+        },
+        "data": {
+          "q": "Verilerimiz güvende mi?",
+          "a": "Verileriniz size aittir; şifreli, izole edilmiş ve KVKK ile GDPR uyumlu şekilde saklanır. Erişim yetkileri rol bazlıdır ve her işlem kayıt altına alınır."
+        },
+        "migrate": {
+          "q": "Mevcut verilerimi taşıyabilir miyim?",
+          "a": "Excel, mevcut CRM/ERP sistemleri ve API üzerinden veri aktarımı desteklenir. Geçiş sürecini ekibimiz planlar; böylece operasyonunuz durmadan devam eder."
+        }
+      }
+    }
+  },
+  "resourcesPage": {
+    "label": "Kaynaklar",
+    "hero": {
+      "titlePre": "Öğrenin, kurun,",
+      "titleEm": "ustalaşın.",
+      "lead": "Corex360'tan en iyi verimi almanız için ihtiyacınız olan her şey tek yerde — dokümantasyon, video eğitimler, müşteri hikâyeleri ve canlı oturumlar.",
+      "scrollCue": "Keşfedin"
+    },
+    "paths": {
+      "label": "Öğrenme yolları",
+      "title": "Nereden başlarsanız başlayın, yolunuz hazır.",
+      "p1": "Geliştirici misiniz, yeni kullanıcı mı, yoksa karar verici mi — her rol için tasarlanmış bir başlangıç noktası var. Dokümantasyonla hızla kurun, videolarla adım adım öğrenin.",
+      "p2": "Gerçek müşteri hikâyeleriyle sonuçları görün, aylık canlı oturumlarda perde arkasını dinleyin. Tüm kaynaklar beş dilde, baştan sona Türkçe öncelikli.",
+      "statValue": "4 kaynak",
+      "statLabel": "Tek merkezde",
+      "quote": "Bir yazılımı gerçekten benimsemek, onu derinlemesine anlamakla başlar."
+    },
+    "featured": {
+      "label": "Hazır kaynaklar",
+      "title": "Şimdi keşfedebileceğiniz her şey.",
+      "lead": "Dört kaynak da yayında — tıklayın ve hemen başlayın."
+    },
+    "items": {
+      "docs": {
+        "title": "Dokümantasyon",
+        "desc": "Kurulumdan API'ye, entegrasyonlardan güvenliğe — örnek kodlarla zenginleştirilmiş eksiksiz rehber."
+      },
+      "videos": {
+        "title": "Video Eğitimler",
+        "desc": "Modülleri adım adım gösteren kısa eğitimler. İzleyin, uygulayın, dakikalar içinde ustalaşın."
+      },
+      "stories": {
+        "title": "Müşteri Hikâyeleri",
+        "desc": "Corex360'ı işinin merkezine alan ekiplerin gerçek deneyimleri ve ölçülebilir sonuçları."
+      },
+      "webinar": {
+        "title": "Webinar",
+        "desc": "Her ay canlı bir oturumda mimari ve en iyi uygulamalar — sorularınızı anında yanıtlıyoruz."
+      }
+    },
+    "webinarStrip": {
+      "tag": "Aylık canlı oturum",
+      "title": "Ekibinizle bize katılın.",
+      "desc": "Multi-tenant SaaS mimarisinden ürün yol haritasına — her ay yeni bir konu, canlı soru-cevap.",
+      "cta": "Ücretsiz kayıt ol",
+      "meta": {
+        "date": "Her ayın ilk perşembesi",
+        "price": "Ücretsiz"
+      }
+    },
+    "upcoming": {
+      "label": "Daha fazlası",
+      "title": "Ürünü yakından takip edin.",
+      "items": {
+        "changelog": {
+          "desc": "Her sürümde ne değişti, tek sayfada."
+        },
+        "status": {
+          "desc": "Tüm servislerin anlık çalışma durumu."
+        },
+        "blog": {
+          "desc": "Ürün, mühendislik ve sektör üzerine yazılar."
+        }
+      }
+    },
+    "faq": {
+      "label": "Sık sorulanlar",
+      "title": "Kaynaklar hakkında",
+      "items": {
+        "where": {
+          "q": "Hangi kaynaklar şu an erişilebilir?",
+          "a": "Dokümantasyon, video eğitimler, müşteri hikâyeleri, aylık webinarımız, blog, sürüm notları ve sistem durumu sayfalarının tamamı yayında."
+        },
+        "free": {
+          "q": "Kaynaklar ücretsiz mi?",
+          "a": "Evet. Dokümantasyon, videolar ve müşteri hikâyeleri herkese açık ve ücretsiz; aylık webinara katılım da ücretsizdir."
+        },
+        "languages": {
+          "q": "Kaynaklar hangi dillerde sunuluyor?",
+          "a": "Tüm site ve kaynaklar beş dilde sunulur: Türkçe, İngilizce, Fransızca, Rusça ve Arapça."
+        },
+        "webinar": {
+          "q": "Webinara nasıl kayıt olurum?",
+          "a": "Webinar sayfasındaki formu doldurmanız yeterli. Her ayın ilk perşembesi canlı yayındayız ve kayıt ücretsizdir."
+        }
+      }
+    },
+    "meta": {
+      "title": "Öğrenin, kurun, ustalaşın.",
+      "description": "Corex360'tan en iyi verimi almanız için ihtiyacınız olan her şey tek yerde — dokümantasyon, video eğitimler, müşteri hikâyeleri ve canlı oturumlar."
+    }
+  },
+  "stories": {
+    "label": "Müşteri Hikâyeleri",
+    "crumbResources": "Kaynaklar",
+    "hero": {
+      "titlePre": "Onların başarısı,",
+      "titleEm": "bizim hikâyemiz.",
+      "lead": "Corex360'ı işinin merkezine alan ekiplerin gerçek deneyimleri — dağınıklıktan düzene geçişi, kendi sözleriyle."
+    },
+    "care": {
+      "label": "Müşteri önceliği",
+      "title": "Her hikâye, bir güven ilişkisiyle başlar.",
+      "p1": "Bizim için müşteri, kapanan bir satış değil; birlikte yürünen bir yoldur. Kurulumda yanınızdayız, ilk haftalarda elinizden tutuyor, siz büyüdükçe sizinle birlikte ölçekleniyoruz.",
+      "p2": "Çünkü Corex360 sahadan doğdu; bir işletmeyi ayakta tutmanın ne demek olduğunu biliyoruz. Bu yüzden her geri bildirim ürünün yol haritasına işler, her destek talebi gerçek bir insana ulaşır."
+    },
+    "testimonialsLabel": "Onların sözleriyle",
+    "testimonialsTitle": "Sahadan gerçek sesler.",
+    "watch": "İzle",
+    "videoTag": "Röportaj",
+    "items": {
+      "logistics": {
+        "sector": "Lojistik & Filo",
+        "author": "Operasyon Müdürü",
+        "metric": "%38 daha hızlı planlama",
+        "duration": "1:52",
+        "quote": "Araçları, sürücüleri ve seferleri ayrı tablolarda kovalıyorduk. Corex360 hepsini tek ekrana taşıdı; artık sabah ilk işimiz panele bakmak."
+      },
+      "retail": {
+        "sector": "Perakende & Mağaza",
+        "author": "Perakende Direktörü",
+        "metric": "12 panel → 1",
+        "duration": "2:14",
+        "quote": "Her şubeyi ayrı yönetmek bizi yavaşlatıyordu. Tek panelde birleşince hem fire düştü hem de kararları çok daha hızlı alıyoruz."
+      },
+      "construction": {
+        "sector": "İnşaat & Şantiye",
+        "author": "Proje Koordinatörü",
+        "metric": "Gerçek zamanlı saha",
+        "duration": "1:38",
+        "quote": "Şantiye ofise hep gecikmeli yansırdı. Şimdi ilerleyişi anlık görüyoruz; bir sorunu aynı gün çözmek bambaşka bir his."
+      }
+    },
+    "disclaimer": "Temsilî yorumlar; gerçek müşteri videoları ve adları yayına hazır olduğunda eklenecek."
+  },
+  "videos": {
+    "label": "Video Eğitimler",
+    "crumbResources": "Kaynaklar",
+    "hero": {
+      "titlePre": "İzleyerek öğren,",
+      "titleEm": "dakikalar içinde.",
+      "lead": "Modülleri adım adım gösteren kısa eğitimler. Kurulumdan ileri özelliklere, ekibinizin hızla ustalaşması için.",
+      "meta": "11 video · ~50 dakika"
+    },
+    "learn": {
+      "label": "Öğrenme yaklaşımımız",
+      "title": "Öğrenmek, kullanmanın yarısıdır.",
+      "p1": "En iyi yazılım bile ekibiniz onu benimsemezse rafta kalır. Bu yüzden Corex360'ı anlatırken teoriye değil, gerçek iş akışlarına bakarız: gördüğünüz her ekran, yarın kullanacağınız ekrandır.",
+      "p2": "Kısa, net ve adım adım videolarla kurulumdan ileri özelliklere kadar elinizden tutuyoruz. Amacımız, ilk haftadan itibaren ekibinizin panele kendiliğinden uzanması."
+    },
+    "libraryLabel": "Eğitim kütüphanesi",
+    "libraryTitle": "Baştan sona, modül modül.",
+    "imageLabel": "Görsel alanı",
+    "featuredTag": "Öne çıkan",
+    "watch": "İzle",
+    "items": {
+      "intro": {
+        "category": "Başlangıç",
+        "title": "Corex360'a ilk bakış: panelde 10 dakika",
+        "desc": "Panelin temel akışı, modüller arası geçiş ve ilk kurulum — yeni başlayanlar için turla."
+      },
+      "crm": {
+        "category": "CRM",
+        "title": "Müşteri yolculuğunu uçtan uca kurun"
+      },
+      "erp": {
+        "category": "ERP",
+        "title": "Stok ve satın almayı tek akışta yönetin"
+      },
+      "bi": {
+        "category": "İş Zekâsı",
+        "title": "Canlı panolar ve anomali uyarıları"
+      },
+      "automation": {
+        "category": "Otomasyon",
+        "title": "Tekrarlayan işleri kurallarla otomatikleştirin"
+      },
+      "mobile": {
+        "category": "Mobil",
+        "title": "Sahada mobil: her yerden operasyon"
+      },
+      "reporting": {
+        "category": "Raporlama",
+        "title": "Dakikalar içinde özelleştirilmiş raporlar"
+      },
+      "appointments": {
+        "category": "Randevular",
+        "title": "Takviminizi operasyona bağlayın"
+      },
+      "projects": {
+        "category": "Projeler",
+        "title": "Projeleri baştan sona kontrol edin"
+      },
+      "quotes": {
+        "category": "Teklifler",
+        "title": "Teklifleri hızlı hazırlayın, kolayca onaylatın"
+      },
+      "contracts": {
+        "category": "Sözleşmeler",
+        "title": "Sözleşmeleri düzenleyin ve süreçleri güvenceye alın"
+      }
+    },
+    "disclaimer": "Temsilî kapaklar; gerçek video içerikleri yayınlandıkça yerlerine eklenecek."
+  },
+  "docs": {
+    "label": "Dökümantasyon",
+    "crumbResources": "Kaynaklar",
+    "hero": {
+      "titlePre": "Her şey belgeli,",
+      "titleEm": "her şey elinizin altında.",
+      "lead": "Kurulumdan API'ye, entegrasyonlardan güvenliğe — Corex360'ı baştan sona anlatan, örnek kodlarla zenginleştirilmiş kaynaklar.",
+      "searchPlaceholder": "Dökümantasyonda ara…"
+    },
+    "dev": {
+      "label": "Geliştirici dostu",
+      "title": "Okumak için değil, uygulamak için yazıldı.",
+      "p1": "Her sayfa kopyala-çalıştır örnekleriyle gelir. Bir uç noktayı denemek için sayfalarca okumanız gerekmez; örneği alır, anahtarınızı koyar ve çalıştırırsınız.",
+      "p2": "REST API'miz öngörülebilir, tutarlı ve iyi belgelenmiştir. Resmî SDK'lar JavaScript, Python ve PHP için hazırdır; webhook'larla gerçek zamanlı olaylara abone olursunuz."
+    },
+    "categories": {
+      "label": "Kategoriler",
+      "title": "Nereden başlayacağınızı seçin.",
+      "lead": "Her başlık, göreve odaklı kısa makalelere ayrılmıştır.",
+      "unit": "makale",
+      "items": {
+        "quickstart": {
+          "title": "Hızlı Başlangıç",
+          "desc": "Kurulumdan ilk API çağrısına kadar beş dakika."
+        },
+        "api": {
+          "title": "API Referansı",
+          "desc": "Tüm uç noktalar, parametreler ve örnek yanıtlar."
+        },
+        "guides": {
+          "title": "Rehberler",
+          "desc": "Senaryo bazlı, adım adım uygulama kılavuzları."
+        },
+        "integrations": {
+          "title": "Entegrasyonlar",
+          "desc": "WhatsApp, e-posta, muhasebe ve 120+ araç."
+        },
+        "sdk": {
+          "title": "SDK & Kütüphaneler",
+          "desc": "JavaScript, Python ve PHP için resmî paketler."
+        },
+        "webhooks": {
+          "title": "Webhooks & Olaylar",
+          "desc": "Gerçek zamanlı olaylara saniyeler içinde abone olun."
+        },
+        "security": {
+          "title": "Kimlik & Güvenlik",
+          "desc": "OAuth, API anahtarları ve rol bazlı erişim."
+        },
+        "changelog": {
+          "title": "Sürüm Notları",
+          "desc": "Yeni özellikler, iyileştirmeler ve değişiklikler."
+        }
+      }
+    }
+  },
+  "webinar": {
+    "label": "Webinar",
+    "crumbResources": "Kaynaklar",
+    "hero": {
+      "titlePre": "Multi-tenant SaaS",
+      "titleEm": "mimarisi.",
+      "lead": "Her ay canlı bir oturumda, Corex360'ı ayakta tutan mimariyi perde arkasıyla anlatıyoruz. Sorularınızı canlı yanıtlıyoruz — kayıt ücretsiz."
+    },
+    "meta": {
+      "date": "Her ayın ilk perşembesi",
+      "time": "20.00 (TSİ)",
+      "format": "Online · canlı",
+      "price": "Ücretsiz"
+    },
+    "agenda": {
+      "label": "Bu oturumda",
+      "title": "Tek oturumda, uçtan uca mimari.",
+      "items": [
+        "Multi-tenant veri izolasyonu: şema, satır ve veritabanı stratejileri",
+        "Tek çekirdek üzerinde binlerce kiracıyı ölçeklendirmek",
+        "Gerçek zamanlı veri katmanı ve olay tabanlı senkronizasyon",
+        "Güvenlik, KVKK/GDPR ve kiracı bazlı yetkilendirme",
+        "Canlı soru-cevap"
+      ]
+    },
+    "host": {
+      "label": "Sunan",
+      "name": "Şevket Erer",
+      "role": "Kurucu Ortak · Teknoloji",
+      "bio": "10+ yıldır SaaS ve veri platformları kuruyor; Corex360'ın çok-kiracılı mimarisini baştan tasarladı."
+    },
+    "form": {
+      "title": "Ücretsiz yerinizi ayırtın",
+      "sub": "Oturumdan önce katılım bağlantısını e-posta ile göndeririz.",
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "company": "Şirket",
+      "submit": "Ücretsiz kaydol",
+      "note": "Kaydolarak gizlilik politikamızı kabul edersiniz. Dilediğiniz zaman ayrılabilirsiniz.",
+      "successTitle": "Kaydınız alındı!",
+      "successBody": "Oturum öncesi katılım bağlantısını e-posta ile göndereceğiz. Görüşmek üzere."
+    },
+    "benefits": {
+      "label": "Neden katılmalı",
+      "title": "Teoriyi değil, üretimi konuşuyoruz.",
+      "items": {
+        "practical": {
+          "title": "Uygulanabilir mimari",
+          "desc": "Slayt değil; gerçek üretim kararları, ölçeklenme tuzakları ve çözümleri."
+        },
+        "interactive": {
+          "title": "Canlı soru-cevap",
+          "desc": "Kendi senaryonuzu sorun; mimari kararları birlikte tartışalım."
+        },
+        "recording": {
+          "title": "Kayıt + kaynaklar",
+          "desc": "Katılamasanız da kaydı ve slaytları e-posta ile gönderiyoruz."
+        }
+      }
+    },
+    "faq": {
+      "label": "Sık sorulanlar",
+      "title": "Webinar hakkında",
+      "items": {
+        "who": {
+          "q": "Webinar kimler için?",
+          "a": "Yazılım mimarları, teknik liderler ve çok-kiracılı SaaS kuran geliştiriciler için. Temel backend bilgisi yeterli."
+        },
+        "recording": {
+          "q": "Kaydı sonradan alabilir miyim?",
+          "a": "Evet. Kayıt olan herkese, oturumdan sonra kaydı ve slaytları e-posta ile gönderiyoruz."
+        },
+        "cost": {
+          "q": "Ücretli mi?",
+          "a": "Hayır, webinar tamamen ücretsizdir. Sadece kayıt olmanız yeterli."
+        },
+        "questions": {
+          "q": "Sorularımı nasıl iletirim?",
+          "a": "Oturum sırasında canlı soru-cevap bölümünde; dilerseniz kayıt formundaki nota da yazabilirsiniz."
+        }
+      }
+    }
+  },
+  "modulesPage": {
+    "label": "Modüller",
+    "hero": {
+      "titlePre": "Tek platform,",
+      "titleEm": "her iş için bir modül.",
+      "lead": "İK'dan operasyona, iletişimden web'e — işinizin her parçası için tasarlanmış modüller, hepsi aynı canlı veri katmanında.",
+      "stat": "20 modül · 13 entegrasyon",
+      "scrollCue": "Keşfet"
+    },
+    "categories": {
+      "ik-musteri": "İK & Müşteri",
+      "ticaret-finans": "Ticaret & Finans",
+      "operasyon-takip": "Operasyon & Takip",
+      "satis-katalog": "Satış & Katalog",
+      "iletisim-web": "İletişim & Web"
+    },
+    "items": {
+      "crm": {
+        "title": "CRM",
+        "desc": "Müşteri kartı, kontak ve fırsat yönetimi."
+      },
+      "erp": {
+        "title": "ERP",
+        "desc": "Sipariş, stok, satın alma ve süreç yönetimi."
+      },
+      "ikpdks": {
+        "title": "İK & PDKS",
+        "desc": "Personel, vardiya, mesai ve izin takibi."
+      },
+      "drive": {
+        "title": "Corex Drive",
+        "desc": "Dosya, klasör ve kurumsal doküman yönetimi."
+      },
+      "eticaret": {
+        "title": "E-Ticaret Yönetimi",
+        "desc": "Online mağaza, sipariş ve kampanya yönetimi."
+      },
+      "muhasebe": {
+        "title": "Muhasebe Yönetimi",
+        "desc": "Fatura, tahsilat, gelir-gider ve nakit akışı."
+      },
+      "stok": {
+        "title": "Stok & Envanter",
+        "desc": "Stok seviyesi, depo hareketleri ve envanter."
+      },
+      "finansrapor": {
+        "title": "Finansal Raporlama",
+        "desc": "Karlılık, gelir analizi ve finansal raporlar."
+      },
+      "aractakip": {
+        "title": "Araç Takip",
+        "desc": "Filo, bakım, sigorta ve performans takibi."
+      },
+      "canlitakip": {
+        "title": "Canlı Takip",
+        "desc": "Gerçek zamanlı konum, saha hareketleri ve harita."
+      },
+      "gorevtakip": {
+        "title": "Görev Takibi",
+        "desc": "Görev atama, durum ve ekip işbirliği."
+      },
+      "takvim": {
+        "title": "Takvim & Randevu",
+        "desc": "Takvim, randevu ve etkinlik yönetimi."
+      },
+      "teklif": {
+        "title": "Teklif Yönetimi",
+        "desc": "Şablon bazlı teklif oluşturma ve takibi."
+      },
+      "sozlesme": {
+        "title": "Sözleşme Yönetimi",
+        "desc": "Sözleşme oluşturma, onay ve süreç takibi."
+      },
+      "katalog": {
+        "title": "Katalog Yönetimi",
+        "desc": "Ürün, hizmet ve fiyat kataloğu yönetimi."
+      },
+      "simulator": {
+        "title": "AI Simülatörü",
+        "desc": "İnteraktif konfigüratör ve lead oluşturma."
+      },
+      "santral": {
+        "title": "Sanal Santral",
+        "desc": "Çağrı, dahili hat ve konuşma kayıtları."
+      },
+      "mesaj": {
+        "title": "Mesaj Merkezi",
+        "desc": "WhatsApp, Instagram ve tüm mesajlar tek yerde."
+      },
+      "mail": {
+        "title": "Mail Yönetimi",
+        "desc": "Kurumsal e-posta, şablon ve gönderim takibi."
+      },
+      "web": {
+        "title": "Web & Dijital",
+        "desc": "Kurumsal web sitesi, içerik ve dijital pazarlama."
+      }
+    },
+    "why": {
+      "label": "Corex360 Farkı",
+      "title": "Neden Biz?",
+      "body": "Eski masaüstü yazılımları, sunucu maliyetlerini ve veri karışıklığını arkanızda bırakın.",
+      "cta": "Mimari altyapı",
+      "features": [
+        "%99.9 Uptime SLA",
+        "Database-Per-Tenant",
+        "iOS & Android Mobil App",
+        "KVKK Uyumlu"
+      ]
+    }
+  },
+  "moduleDetail": {
+    "crumb": "Modüller",
+    "primary": "Demo Talep Et",
+    "watch": "CRM'i İzle",
+    "close": "Kapat",
+    "imageLabel": "Görsel alanı",
+    "explore": "Keşfet",
+    "crm": {
+      "category": "Müşteri İlişkileri Yönetimi",
+      "titlePre": "Müşteri ilişkilerinizi",
+      "titleEm": "güçlendirin.",
+      "lead": "Lead'den sadık müşteriye uzanan tüm yolculuğu tek ekranda yönetin. Kontaklar, fırsatlar, teklifler, sözleşmeler ve destek kayıtları; Corex360 CRM'de tek müşteri hafızasında birleşir.",
+      "demoLabel": "Tanıtım",
+      "demoTitle": "CRM'i iki dakikada görün.",
+      "demoSub": "Panelin temel akışını, müşteri 360° kartını ve görsel satış hunisini canlı izleyin.",
+      "duration": "2:10",
+      "metrics": {
+        "label": "Etkisi",
+        "title": "Rakamlarla CRM.",
+        "items": [
+          {
+            "value": "360°",
+            "label": "tek müşteri hafızası"
+          },
+          {
+            "value": "%40",
+            "label": "daha hızlı ilk yanıt"
+          },
+          {
+            "value": "3×",
+            "label": "daha fazla zamanında takip"
+          },
+          {
+            "value": "%99,9",
+            "label": "garantili erişilebilirlik"
+          }
+        ]
+      },
+      "integrations": {
+        "label": "Entegrasyonlar",
+        "title": "Kullandığınız araçlarla konuşur.",
+        "sub": "WhatsApp'tan e-postaya, takvimden muhasebeye — müşteri verisi her yerde senkron kalır.",
+        "items": [
+          "WhatsApp",
+          "E-posta",
+          "Takvim",
+          "Muhasebe",
+          "Web Formları",
+          "Telefon Santrali"
+        ],
+        "more": "ve 120+ araç"
+      },
+      "proof": {
+        "label": "Sahadan",
+        "quote": "Müşteri geçmişini aramak yerine artık tek karta bakıyoruz. İlk yanıt süremiz yarıya indi, hiçbir teklif arada kaybolmuyor.",
+        "author": "Satış Direktörü",
+        "company": "EMS Yapı",
+        "trustLabel": "Bize güvenen ekipler"
+      },
+      "related": {
+        "label": "Birlikte daha güçlü",
+        "title": "CRM tek başına güçlü, 360° ile eksiksiz.",
+        "sub": "Aynı canlı veri katmanını paylaşan modüllerle müşteriden operasyona kesintisiz akış.",
+        "items": [
+          {
+            "name": "ERP",
+            "desc": "Stok, satın alma ve finans tek akışta."
+          },
+          {
+            "name": "İş Zekâsı",
+            "desc": "Canlı panolar ve anomali uyarıları."
+          }
+        ],
+        "trustLabel": "Güvenlik & uyumluluk"
+      },
+      "featuresLabel": "Öne çıkanlar",
+      "featuresTitle": "Müşteriyi 360° görün, fırsatı kaçırmayın.",
+      "features": {
+        "card360": {
+          "title": "Müşteri 360° kartı",
+          "desc": "Her müşterinin tüm geçmişi — iletişim, fırsat, teklif, sözleşme ve destek — tek ekranda."
+        },
+        "pipeline": {
+          "title": "Görsel satış hunisi",
+          "desc": "Fırsatları aşamalara göre sürükle-bırak ile yönetin; nerede tıkandığını anında görün."
+        },
+        "quote": {
+          "title": "Teklif & sözleşme",
+          "desc": "Şablonla saniyeler içinde teklif hazırlayın, e-imzayla onaylatın."
+        },
+        "activity": {
+          "title": "Aktiviteler",
+          "desc": "Görev, toplantı ve randevuları ekiple paylaşın; hiçbir takip unutulmasın."
+        },
+        "ai": {
+          "title": "AI öngörüsü",
+          "desc": "Yüksek potansiyelli fırsatları ve riskleri yapay zekâ otomatik işaretler."
+        },
+        "lifecycle": {
+          "title": "Müşteri yaşam döngüsü",
+          "desc": "Potansiyelden sadık müşteriye her aşamayı görünür ve ölçülebilir tutun."
+        }
+      },
+      "insideLabel": "Modül içeriği",
+      "insideTitle": "CRM'in içinde neler var?",
+      "groups": {
+        "management": {
+          "label": "Müşteri Yönetimi",
+          "items": [
+            "Müşteriler",
+            "Kontaklar",
+            "Fırsatlar",
+            "Teklifler",
+            "Sözleşmeler",
+            "Müşteri Destek Talepleri"
+          ]
+        },
+        "activities": {
+          "label": "Aktiviteler",
+          "items": [
+            "Görevler",
+            "Toplantılar",
+            "Randevular"
+          ]
+        }
+      },
+      "vision": {
+        "label": "Vizyon",
+        "title": "Bir müşteri ilişkisi, kapanan bir satıştan fazlasıdır.",
+        "p1": "Çoğu işletme müşteriyi bir tabloda satır, bir e-postada isim olarak görür. Oysa her müşteri; bir konuşma geçmişi, bir beklenti ve zamanla oluşan bir güven ilişkisidir.",
+        "p2": "Corex360 CRM, bu ilişkiyi tek bir canlı kayıtta toplar. İlk temastan sadık müşteriye dönüşen sürece kadar; her e-posta, her teklif, her görüşme ve her not aynı müşteri hafızasında birleşir.",
+        "quote": "Müşteriyi tanımak, onu elde tutmanın yarısıdır."
+      },
+      "showcase": {
+        "label": "Ekranlar",
+        "title": "CRM'i çalışırken görün.",
+        "sub": "Müşteri listesi, 360° müşteri kartı ve görsel satış hunisi — gerçek panelden."
+      },
+      "lifecycle": {
+        "label": "Müşteri Yaşam Döngüsü",
+        "title": "Potansiyelden sadık müşteriye, her aşama görünür.",
+        "lead": "CRM her müşteriyi yolculuğunun neresinde olduğunu bilerek yönetir; hiçbir fırsat aşamada kaybolmaz.",
+        "stages": [
+          {
+            "name": "Potansiyel",
+            "desc": "İlk temas, kaynak ve ilgi sinyalleri."
+          },
+          {
+            "name": "İletişimde",
+            "desc": "Aktif görüşme, ihtiyaç keşfi ve takip."
+          },
+          {
+            "name": "Fırsat",
+            "desc": "Teklif, pazarlık ve kapanışa giden adımlar."
+          },
+          {
+            "name": "Müşteri",
+            "desc": "Sözleşme, kuruluma alma ve ilk değer."
+          },
+          {
+            "name": "Sadık Müşteri",
+            "desc": "Tekrar satış, referans ve uzun vadeli ilişki."
+          }
+        ]
+      },
+      "faq": {
+        "label": "Sık sorulanlar",
+        "title": "CRM hakkında",
+        "items": {
+          "integration": {
+            "q": "CRM diğer modüllerle nasıl çalışır?",
+            "a": "CRM; ERP, teklif ve iletişim modülleriyle aynı canlı veri katmanını paylaşır. Bir müşterinin teklifi, sözleşmesi ve faturası otomatik olarak kartında görünür."
+          },
+          "migration": {
+            "q": "Mevcut müşteri verilerimi taşıyabilir miyim?",
+            "a": "Evet. Excel, mevcut CRM sistemleri ve API üzerinden müşteri, kontak ve fırsat verilerinizi içe aktarabilirsiniz; geçişe ekibimiz eşlik eder."
+          },
+          "mobile": {
+            "q": "Satış ekibim mobilden kullanabilir mi?",
+            "a": "Evet. iOS ve Android uygulamalarıyla müşteri kartına, fırsatlara ve görevlere sahadan erişilir."
+          },
+          "ai": {
+            "q": "Yapay zekâ tam olarak ne yapıyor?",
+            "a": "AI; yüksek potansiyelli fırsatları işaretler, riskli müşterileri öne çıkarır ve bir sonraki en iyi aksiyonu önerir."
+          },
+          "security": {
+            "q": "Verilerimiz güvende mi?",
+            "a": "Müşteri verileriniz şifreli, kiracı bazlı izole ve KVKK/GDPR uyumlu şekilde saklanır; erişim rol bazlıdır ve her işlem kayıt altına alınır."
+          }
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "body": "Aradığınız sayfa taşınmış veya hiç var olmamış olabilir.",
+    "home": "Ana sayfaya dön"
+  },
+  "contactPage": {
+    "eyebrow": "İletişim",
+    "title": "Konuşalım.",
+    "titleAccent": "İşletmenizi 360° görelim.",
+    "subtitle": "Demo talepleri, fiyat soruları ya da iş birlikleri — formu doldurun, birkaç saat içinde dönelim. Dilerseniz iki ofisimizden birine de uğrayabilirsiniz.",
+    "form": {
+      "eyebrow": "Mesaj bırakın",
+      "title": "Size geri dönelim",
+      "sub": "Formu doldurun, ekibimiz en kısa sürede ulaşsın.",
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "company": "Şirket",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "submit": "Mesajı gönder",
+      "sending": "Gönderiliyor…",
+      "note": "Göndererek gizlilik politikamızı kabul etmiş olursunuz.",
+      "successTitle": "Mesajınız bize ulaştı",
+      "successBody": "Teşekkürler! Ekibimiz en kısa sürede sizinle iletişime geçecek.",
+      "again": "Yeni mesaj gönder"
+    },
+    "subjects": {
+      "demo": "Demo talebi",
+      "sales": "Satış ve fiyatlandırma",
+      "support": "Teknik destek",
+      "partnership": "İş birliği",
+      "other": "Diğer"
+    },
+    "offices": {
+      "eyebrow": "Ofislerimiz",
+      "title": "İki merkez, tek ekip",
+      "lead": "İstanbul'un iki yakasındayız. Bir ofis seçin, harita oraya gitsin.",
+      "directions": "Yol tarifi",
+      "active": "Haritada",
+      "itu": {
+        "name": "İTÜ Teknokent",
+        "tag": "Genel Merkez · Ar-Ge",
+        "address": "İTÜ ARI Teknokent, Ayazağa Kampüsü, Maslak · Sarıyer / İstanbul"
+      },
+      "sancaktepe": {
+        "name": "Sancaktepe Ofis",
+        "tag": "Operasyon · Destek",
+        "address": "Sancaktepe / İstanbul"
+      }
+    },
+    "channels": {
+      "email": "E-posta",
+      "phone": "Telefon",
+      "whatsapp": "WhatsApp",
+      "hours": "Çalışma saatleri",
+      "hoursValue": "Hafta içi 09.00 – 18.00"
+    },
+    "mapAria": "{name} konumunu gösteren harita"
+  },
+  "changelog": {
+    "label": "Sürüm notları",
+    "crumbResources": "Kaynaklar",
+    "hero": {
+      "titlePre": "Sürüm",
+      "titleEm": "notları.",
+      "lead": "Corex360'a her sürümde ne eklendi, ne geliştirildi, ne düzeltildi. En yeni güncellemeler en üstte."
+    },
+    "tags": {
+      "new": "Yeni",
+      "improved": "Geliştirme",
+      "fixed": "Düzeltme"
+    },
+    "releases": {
+      "r24": {
+        "date": "Haziran 2026",
+        "title": "Filo takibi ve Corex Drive",
+        "items": {
+          "fleet": "Araç/filo takip modülü yayında: canlı konum, rota geçmişi ve yakıt raporları.",
+          "drive": "Corex Drive: tüm belgelerinizi tek yerde toplayan dosyalama alanı.",
+          "inbox": "Omnichannel gelen kutusu artık Instagram DM'lerini de tek akışta birleştiriyor.",
+          "reports": "Büyük veri kümelerinde rapor dışa aktarımındaki yavaşlama giderildi."
+        }
+      },
+      "r23": {
+        "date": "Mayıs 2026",
+        "title": "WhatsApp ve satış hattı",
+        "items": {
+          "whatsapp": "WhatsApp Business entegrasyonu: mesajları doğrudan CRM kartından yanıtlayın.",
+          "pipeline": "Satış hattı sürükle-bırak deneyimi hızlandırıldı ve sadeleştirildi.",
+          "invoices": "Fatura numaralandırmasında nadir görülen sıra atlama hatası düzeltildi."
+        }
+      },
+      "r22": {
+        "date": "Nisan 2026",
+        "title": "İş zekâsı ve performans",
+        "items": {
+          "bi": "Yeni BI gösterge paneli: gelir, stok ve ekip performansını tek ekranda izleyin.",
+          "performance": "İlk yükleme süresi mobilde %40'a varan oranda iyileştirildi.",
+          "calendar": "Takvim görünümünde tekrar eden randevuların yanlış gösterilmesi düzeltildi."
+        }
+      }
+    },
+    "latest": "Güncel",
+    "shipped": "sürüm yayında"
+  },
+  "status": {
+    "label": "Sistem durumu",
+    "crumbResources": "Kaynaklar",
+    "hero": {
+      "titlePre": "Sistem",
+      "titleEm": "durumu.",
+      "lead": "Corex360 servislerinin anlık çalışma durumu ve son 90 günlük performansı. Bir sorun olursa burada görürsünüz."
+    },
+    "overall": {
+      "ok": "Tüm sistemler çalışıyor",
+      "updated": "Son güncelleme: az önce"
+    },
+    "operational": "Çalışıyor",
+    "services": {
+      "api": {
+        "name": "API",
+        "desc": "REST ve webhook uç noktaları"
+      },
+      "app": {
+        "name": "Web uygulaması",
+        "desc": "Panel ve kullanıcı arayüzü"
+      },
+      "inbox": {
+        "name": "Omnichannel gelen kutusu",
+        "desc": "WhatsApp, Instagram ve web kanalları"
+      },
+      "database": {
+        "name": "Veritabanı",
+        "desc": "Birincil veri katmanı ve yedekleme"
+      },
+      "drive": {
+        "name": "Corex Drive",
+        "desc": "Dosya depolama ve paylaşım"
+      },
+      "bi": {
+        "name": "Raporlama ve BI",
+        "desc": "Gösterge panelleri ve analizler"
+      }
+    },
+    "uptime": {
+      "label": "Son 90 gün — çalışma süresi",
+      "value": "Olaysız",
+      "start": "90 gün önce",
+      "end": "Bugün"
+    },
+    "incidents": {
+      "label": "Geçmiş olaylar",
+      "title": "Son 90 günde olay yok.",
+      "none": "Son 90 günde herhangi bir kesinti veya performans olayı kaydedilmedi."
+    },
+    "metrics": {
+      "uptime": {
+        "label": "Çalışma süresi",
+        "sub": "Son 90 gün"
+      },
+      "response": {
+        "label": "Ortalama yanıt",
+        "sub": "Tüm servisler"
+      },
+      "services": {
+        "label": "İzlenen servis",
+        "sub": "Tümü aktif"
+      },
+      "incidents": {
+        "label": "Olay kaydı",
+        "sub": "Son 90 gün"
+      }
+    },
+    "chart": {
+      "label": "Yanıt süresi",
+      "sub": "Son 24 saat"
+    },
+    "servicesSection": {
+      "label": "Servisler",
+      "title": "Her servis tek tek izleniyor."
+    }
+  },
+  "blog": {
+    "hero": {
+      "titlePre": "Corex360",
+      "titleEm": "günlüğü.",
+      "lead": "Bir işletmeyi tek merkezden yönetmenin perde arkası: vizyon, ürün, mühendislik ve sahadan notlar. Pazarlama cümleleri değil, gerçek operasyon."
+    },
+    "categories": {
+      "vision": "Vizyon",
+      "product": "Ürün",
+      "engineering": "Mühendislik",
+      "operations": "Operasyon"
+    },
+    "meta": {
+      "readUnit": "dk okuma",
+      "by": "Yazan",
+      "featured": "Öne çıkan",
+      "read": "Yazıyı oku"
+    },
+    "back": "Tüm yazılar",
+    "posts": {
+      "tek-cati-altinda-360": {
+        "title": "Tek çatı altında 360°: sekiz uygulamayı kapatmanın hikâyesi",
+        "excerpt": "WhatsApp, CRM, stok, fatura, araç takip ve dosyalama ayrı ayrı pencerelerde değil; tek bir komuta merkezinde buluşunca işletme nasıl değişiyor?",
+        "date": "15 Haziran 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Bir işletme sahibinin sabahı çoğu zaman şöyle başlar: WhatsApp Web'de bekleyen müşteri, Instagram'da yanıtsız bir DM, ayrı bir muhasebe programında dünkü fatura, başka bir ekranda stok sayımı, bir de aracın nerede olduğunu merak eden saha şefi. Sekiz farklı uygulama, sekiz farklı şifre ve birbirinden habersiz sekiz veri adası. Corex360 tam da bu dağınıklığa karşı kuruldu: işletmeyi sekiz parçaya bölmek yerine, tek bir 360° komuta merkezinden yönetmek."
+          },
+          {
+            "kind": "h",
+            "text": "Uygulama enflasyonunun gerçek maliyeti"
+          },
+          {
+            "kind": "p",
+            "text": "Her yeni araç, yeni bir abonelik faturasından çok daha pahalıya mal olur. Asıl bedel, verinin parçalanmasıdır. Müşteri WhatsApp'tan yazar, satış ekibi onu bir Excel'e işler, fatura başka bir programda kesilir, sevkiyat üçüncü bir yerde takip edilir. Hiçbir yerde o müşterinin tam hikâyesi yoktur. Bir soru sorulduğunda — 'Bu müşteriye ne kadar sattık, son ne konuştuk, ödemesi geldi mi?' — cevap üç kişiye, üç ekrana ve yarım saate mal olur."
+          },
+          {
+            "kind": "p",
+            "text": "Bağlam kaybı sessiz bir sızıntıdır. Kanallar arasında düşen lead, iki kere kesilen fatura, stokta görünüp depoda olmayan ürün, hangi araca atandığı belirsiz iş emri. Bunların hiçbiri tek başına kriz değildir; ama her gün tekrarlandığında işletmenin gerçek hızını belirleyen şey bu görünmez sürtünmedir."
+          },
+          {
+            "kind": "quote",
+            "text": "Sorun uygulama sayısı değil, hiçbir uygulamanın işletmenin tamamını görmemesidir."
+          },
+          {
+            "kind": "h",
+            "text": "Tek doğru kaynak ne değiştirir"
+          },
+          {
+            "kind": "p",
+            "text": "Corex360'ta WhatsApp, Instagram ve web formundan gelen her mesaj aynı gelen kutusuna düşer; her muhatap otomatik bir CRM kişisine dönüşür ve satış hattında bir fırsat olarak ilerler. Aynı müşteri kartının altında konuşma geçmişi, kesilen faturalar, stoktan çıkan ürünler ve — saha işiyse — ona giden aracın rotası yan yana durur. Veri tek yerde olduğunda, bağlam da tek yerdedir."
+          },
+          {
+            "kind": "p",
+            "text": "Bu birleşme yalnızca konfor değil, karar kalitesidir. Stok ile satış aynı çatı altında olunca, hangi ürünün gerçekten döndüğünü; finans ile CRM birleşince hangi müşterinin kârlı olduğunu; araç takip ile iş emri birleşince hangi saha ekibinin verimli çalıştığını tek bir BI panosunda görürsünüz. Sekiz raporu birleştirmeye çalışmazsınız; rapor zaten birleşik doğar."
+          },
+          {
+            "kind": "h",
+            "text": "360° bir lüks değil, varsayılan olmalı"
+          },
+          {
+            "kind": "p",
+            "text": "Bir işletmeyi yönetmek, sekiz sekmeyi senkron tutma sanatı olmamalı. Corex360'ın vizyonu basit: iletişim, satış, üretim, lojistik, finans ve belge — hepsi aynı dili konuşan tek bir sistemde. Pencere değiştirmeyi bıraktığınızda, asıl işinize, yani işletmeyi büyütmeye dönecek vakit kazanırsınız."
+          },
+          {
+            "kind": "p",
+            "text": "Bir komuta merkezi, sekiz uygulamanın toplamından fazlasıdır; çünkü onları birbiriyle konuşturur. Corex360'ın bütün hikâyesi bu cümlede saklı: dağınıklığı yönetmek yerine, dağınıklığı ortadan kaldırmak."
+          }
+        ]
+      },
+      "omnichannel-gelen-kutusu": {
+        "title": "Her mesaj bir fırsattır: omnichannel gelen kutusu satışa nasıl dönüşür",
+        "excerpt": "WhatsApp, Instagram DM ve web formundan gelen her konuşma tek gelen kutusunda toplanır, CRM kişisine dönüşür ve satış hattında kaybolmadan ilerler.",
+        "date": "28 Mayıs 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Müşteri bir kez WhatsApp'tan, bir kez Instagram'dan, bir kez de web sitesindeki formdan yazar. Üç kanal, çoğu işletmede üç ayrı dünyadır: biri telefonda, biri sosyal medya ekibinde, biri de inbox'ı kimsenin açmadığı bir e-posta kutusunda. Sonuç tanıdıktır — yanıtsız kalan soru, gece gelip sabah unutulan talep, iki kişinin aynı müşteriye farklı cevap verdiği karmaşa. Omnichannel gelen kutusu bu üç dünyayı tek ekrana indirir."
+          },
+          {
+            "kind": "h",
+            "text": "Tek gelen kutusu, tek görüş alanı"
+          },
+          {
+            "kind": "p",
+            "text": "Corex360'ta WhatsApp mesajı, Instagram DM'i ve web formu aynı akışa düşer. Hangi kanaldan geldiğini bir rozet söyler; ama yanıtlamak için pencere değiştirmezsiniz. Ekip aynı konuşmayı görür, kimin üstlendiği bellidir, devir teslim tek tıkla olur. 'Bu mesaja kim baktı?' sorusu ortadan kalkar, çünkü herkes aynı tabloya bakar."
+          },
+          {
+            "kind": "p",
+            "text": "Önemli olan, hızın görünür hâle gelmesidir. Kim ne kadar sürede yanıtlıyor, hangi kanal daha çok soru getiriyor, hangi konuşma fırsata dönüşüyor — hepsi aynı yerde ölçülür. Gelen kutusu bir yığın değil, bir satış borusunun ağzı hâline gelir."
+          },
+          {
+            "kind": "quote",
+            "text": "Bir konuşmanın değeri, hangi kanaldan geldiğinde değil, nereye gittiğinde belli olur."
+          },
+          {
+            "kind": "h",
+            "text": "Mesajdan CRM kişisine, kişiden fırsata"
+          },
+          {
+            "kind": "p",
+            "text": "Asıl dönüşüm şurada olur: gelen her muhatap otomatik bir CRM kişisine dönüşür. İlk 'Merhaba, fiyat alabilir miyim?' mesajı, bir isim, bir kanal ve bir geçmişe sahip kayda dönüşür. Bu kişi satış hattında bir fırsat olarak açılır; ilk temastan teklife, tekliften kapanışa kadar her aşama kartında durur. Hiçbir lead, kanallar arasındaki boşluğa düşmez."
+          },
+          {
+            "kind": "p",
+            "text": "Yanıtı doğrudan müşteri kartından verirsiniz. Karşınızda yalnızca bir konuşma balonu değil; o müşterinin tüm geçmişi, geçmiş siparişleri, açık fırsatları ve hatta — entegre olduğunda — faturaları vardır. Cevap yazarken kim olduğunu, daha önce ne aldığını ve hangi aşamada olduğunu bilirsiniz. Genel bir destek değil, bağlamı olan bir satış konuşması yaparsınız."
+          },
+          {
+            "kind": "h",
+            "text": "Kaybolmayan lead, kapanan satış"
+          },
+          {
+            "kind": "p",
+            "text": "Çoğu satış, kötü ürün yüzünden değil, takip edilmediği için kaybedilir. Omnichannel gelen kutusunun sessiz vaadi budur: hiçbir konuşma yarıda kalmaz, hiçbir fırsat sahipsiz kalmaz, hiçbir müşteri 'sanırım kimse cevap vermedi' diyerek rakibe gitmez. Mesajı satışa çeviren şey sihir değil; her temasın tek bir yerde, tek bir hatta ve tek bir sahiplikle ilerlemesidir."
+          },
+          {
+            "kind": "p",
+            "text": "Sosyal medya ekibiyle satış ekibi arasındaki duvar kalktığında, Instagram'dan gelen bir beğeni de, WhatsApp'tan gelen bir soru da aynı disiplinle yönetilir. Pazarlama trafiği gerçekten gelire dönüşmeye başlar — çünkü artık trafiğin nereye gittiğini biliyorsunuzdur."
+          }
+        ]
+      },
+      "multi-tenant-mimari": {
+        "title": "Binlerce işletme, tek çekirdek: çok kiracılı mimariyi ölçeklemek",
+        "excerpt": "Veri izolasyonu, tek çekirdeğin binlerce kiracıya hizmet vermesi, olay tabanlı gerçek zamanlı senkronizasyon ve kiracı bazında KVKK uyumu — üretim gözüyle.",
+        "date": "14 Mayıs 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Çok kiracılı (multi-tenant) bir SaaS, dışarıdan tek bir uygulama gibi görünür; içeride ise binlerce işletmenin verisini aynı çekirdeğin üzerinde, birbirine asla değdirmeden taşıyan bir disiplindir. Corex360'ın her ay düzenlediği mühendislik webinarının da değişmez konusu budur: tek bir kod tabanı, tek bir altyapı, ama her kiracı için kendi dünyası gibi hissettiren bir sistem nasıl kurulur."
+          },
+          {
+            "kind": "h",
+            "text": "İzolasyon: şema mı, satır mı?"
+          },
+          {
+            "kind": "p",
+            "text": "İlk ve en kritik karar veri izolasyonudur. İki ana yaklaşım vardır: her kiracıya ayrı bir şema (schema-per-tenant) ya da paylaşılan tablolarda her satırı bir tenant_id ile etiketleme (row-level). Şema bazlı yaklaşım güçlü fiziksel ayrım ve kolay yedekleme verir ama on binlerce şemayı yönetmek migration'ları ağırlaştırır. Satır bazlı yaklaşım operasyonel olarak hafiftir, ölçeklenir; ancak tek bir eksik WHERE koşulu felakettir. Pratikte hibrit kazanır: çoğu modül için satır bazlı izolasyon + veritabanı seviyesinde zorunlu kılınan satır güvenlik politikaları (RLS), büyük kurumsal kiracılar için ise mantıksal ayrım."
+          },
+          {
+            "kind": "p",
+            "text": "Önemli olan, izolasyonu uygulama koduna güvenerek değil, mümkün olan en alt katmanda zorunlu kılmaktır. tenant_id filtresini her sorguya elle eklemeyi unutan bir geliştirici, bir gün başka bir kiracının verisini sızdırır. Bu yüzden filtre veritabanı politikasına ve ortak sorgu katmanına gömülür; geliştirici onu atlamak istese bile atlayamaz."
+          },
+          {
+            "kind": "quote",
+            "text": "Çok kiracılı mimaride güvenlik bir özellik değil, varsayılan davranıştır; istisna değil, kuraldır."
+          },
+          {
+            "kind": "h",
+            "text": "Tek çekirdek, gerçek zamanlı senkron"
+          },
+          {
+            "kind": "p",
+            "text": "Corex360'ta WhatsApp'tan düşen bir mesajın aynı anda gelen kutusunda, CRM kartında ve BI panosunda belirmesi gerekir. Bunu her ekranı sürekli sorgulatarak değil, olay tabanlı (event-driven) bir omurgayla çözeriz: bir şey olduğunda — yeni mesaj, kesilen fatura, hareket eden araç — sistem bir olay yayınlar, ilgili modüller onu dinler ve kendini günceller. Tek çekirdek binlerce kiracıya hizmet verirken bile, her kiracının olayları yalnızca kendi sınırları içinde dolaşır."
+          },
+          {
+            "kind": "p",
+            "text": "Bu mimari, modülleri birbirinden gevşek bağlı tutar. Araç takip modülü stok modülünün iç yapısını bilmek zorunda değildir; ikisi de aynı olay diline konuşur. Yeni bir modül eklemek, çekirdeği yeniden yazmak değil, akışa yeni bir dinleyici katmaktır. Ölçeklenmenin sırrı, büyüklüğü değil, bağımsızlığı yönetmektir."
+          },
+          {
+            "kind": "h",
+            "text": "Kiracı bazında yetki ve KVKK/GDPR"
+          },
+          {
+            "kind": "p",
+            "text": "Türkiye'de KVKK, Avrupa'da GDPR — her ikisi de 'verinin kime ait olduğu ve kimin görebileceği' sorusuna net cevap ister. Çok kiracılı bir sistemde bu, iki katmanlı bir yetkilendirme demektir: önce kiracı sınırı (bir işletmenin kullanıcısı asla başka bir işletmenin verisine erişemez), sonra kiracı içi roller (saha şefi araç verisini görür, muhasebeci faturayı, herkes her şeyi değil)."
+          },
+          {
+            "kind": "p",
+            "text": "Uyumun pratik yüzü, denetlenebilirliktir: hangi veriye kim, ne zaman erişti; bir kiracı verisinin silinmesi istendiğinde gerçekten ve yalnızca o kiracının izinin silinmesi; veri saklama sürelerinin kiracı bazında uygulanabilmesi. İyi bir multi-tenant mimari, KVKK'yı sonradan yapıştırılan bir uyum katmanı olarak değil, izolasyon kararının doğal bir sonucu olarak taşır."
+          }
+        ]
+      },
+      "saha-ekipleri-arac-takip": {
+        "title": "Sahayı merkeze taşımak: araç takip, iş emri ve Corex Drive",
+        "excerpt": "Canlı araç takibi, iş emri yönetimi ve Corex Drive ile belge dosyalama — saha operasyonunu satış ve finansla aynı çatı altına getirmek.",
+        "date": "23 Nisan 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Çoğu işletmede saha, ofisin kör noktasıdır. Satış CRM'de, finans muhasebede yaşar; ama aracın nerede olduğu telefon konuşmalarında, iş emri bir WhatsApp grubunda, teslim belgesi ise birinin telefonundaki fotoğrafta kalır. Corex360 sahayı bir kenar departman olmaktan çıkarıp aynı komuta merkezinin tam içine alır: araç, iş emri ve belge — satış ve finansla yan yana."
+          },
+          {
+            "kind": "h",
+            "text": "Aracın nerede olduğunu bilmek, planı bilmektir"
+          },
+          {
+            "kind": "p",
+            "text": "Canlı araç takip yalnızca haritada bir nokta değildir. Konum, izlenen rota ve yakıt verisi bir araya geldiğinde, sahanın gerçek resmi çıkar: hangi araç hangi işe gidiyor, planlanan rotadan sapma var mı, yakıt tüketimi normal mi, bir sonraki teslimata ne zaman ulaşır. Müşteri 'Ekip ne zaman gelir?' diye sorduğunda, tahmin yürütmek yerine ekrana bakıp cevap verirsiniz."
+          },
+          {
+            "kind": "p",
+            "text": "Araç verisi tek başına bir gösterge tablosu olarak da değerlidir; ama asıl gücü, iş emriyle birleştiğinde ortaya çıkar. Rota artık soyut bir çizgi değil, belirli bir müşteriye, belirli bir işe bağlı bir harekettir."
+          },
+          {
+            "kind": "quote",
+            "text": "Saha görünmez olduğunda yönetilemez; aynı çatı altına girdiğinde ölçülebilir hâle gelir."
+          },
+          {
+            "kind": "h",
+            "text": "İş emri: işin baştan sona izi"
+          },
+          {
+            "kind": "p",
+            "text": "Bir iş emri, sahanın CRM fırsatına karşılık gelen birimidir. Hangi müşteri, hangi iş, hangi ekip, hangi araç, hangi durumda — açıldığı andan kapandığı ana kadar tek kayıtta izlenir. Saha ekibi işi telefonundan görür, durumu günceller, yapıldı işaretler; ofis ise her iş emrinin canlı durumunu, gecikmeleri ve tamamlanma oranını aynı anda görür. WhatsApp gruplarında dağılan koordinasyon, tek bir akışa toplanır."
+          },
+          {
+            "kind": "p",
+            "text": "İş emri kapanınca hikâye bitmez. O işin faturası finans modülünde kesilir, kullanılan ürün stoktan düşer, müşterinin kartında geçmişe eklenir. Saha ile arka ofis arasındaki kopukluk, ortadan kalkar — çünkü ikisi de aynı kaydın iki yüzüdür."
+          },
+          {
+            "kind": "h",
+            "text": "Corex Drive: belgeyi işin yanında tutmak"
+          },
+          {
+            "kind": "p",
+            "text": "Her saha işi bir belge bırakır: teslim tutanağı, imzalı irsaliye, montaj fotoğrafı, garanti formu. Bunlar telefon galerilerinde ve e-posta eklerinde kaybolduğunda, bir anlaşmazlıkta kanıt bulmak imkânsızlaşır. Corex Drive belgeyi tam ait olduğu yerde — iş emrinin, müşteri kartının ve faturanın yanında — saklar. Aradığınız evrak için klasör değil, ilgili kaydı açarsınız."
+          },
+          {
+            "kind": "p",
+            "text": "Saha operasyonunu satış ve finansla aynı hub'a taşımanın özü budur: araç, iş emri ve belge artık ayrı sistemlerde yaşayan veri parçaları değil, müşteri yolculuğunun aynı çizgisindeki halkalardır. İşletmenin 360° görüşü, ofisin camından bittiği yerde değil, sahanın en uzak noktasında tamamlanır."
+          }
+        ]
+      }
+    },
+    "label": "Blog",
+    "crumbResources": "Kaynaklar",
+    "related": "İlgili yazılar"
+  }
+}

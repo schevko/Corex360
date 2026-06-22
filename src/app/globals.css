@@ -1,0 +1,491 @@
+@import "tailwindcss";
+
+/* Direction-aware variants for fine RTL tweaks (icon flips, gradients, etc.). */
+@custom-variant rtl (&:where([dir="rtl"], [dir="rtl"] *));
+@custom-variant ltr (&:where([dir="ltr"], [dir="ltr"] *));
+/* Dark-theme variant — LIGHT is the default; `.dark` on <html> opts into dark. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ============================================================================
+   COREX360 — premium monochrome design system (Apple / Linear / Vercel).
+   Light is the default. No chromatic accent — the accent is high-contrast
+   near-black on light, near-white on dark. Depth comes from a clean elevation
+   ladder + soft layered shadows, not color.
+   ========================================================================== */
+:root {
+  color-scheme: light;
+  /* Warm ivory tones (the ones the user liked) + monochrome graphite accent. */
+  --background: #f3f1ea; /* warm ivory canvas */
+  --surface: #fbfaf5; /* raised card */
+  --surface-2: #ece9e0; /* +2 */
+  --surface-3: #e1dcd0; /* +3 hover */
+  --border: #e0dbce; /* hairline */
+  --border-strong: #cdc6b6; /* defined edge */
+  --foreground: #1c1a15; /* warm near-black text */
+  --muted: #5f594e; /* secondary */
+  --muted-2: #8a8377; /* tertiary */
+
+  /* Monochrome graphite accent — warm, high-contrast, NO gold. */
+  --accent: #1c1a15;
+  --accent-2: #3a352c;
+  --accent-3: #26221b;
+  --on-accent: #fbfaf5;
+
+  --glow: color-mix(in srgb, var(--foreground) 16%, transparent);
+  --ring: color-mix(in srgb, var(--foreground) 40%, transparent);
+
+  --glass-bg: color-mix(in srgb, var(--surface) 72%, transparent);
+  --glass-border: color-mix(in srgb, var(--foreground) 8%, transparent);
+  --shadow-soft: 0 1px 2px rgba(10, 10, 12, 0.04),
+    0 12px 32px -16px rgba(10, 10, 12, 0.16);
+  --shadow-glow: 0 1px 2px rgba(10, 10, 12, 0.05),
+    0 28px 60px -28px rgba(10, 10, 12, 0.3);
+}
+
+/* Dark theme — WARM premium monochrome (DK-style warm anthracite, matches the
+   warm ivory light). No gold; accent is warm off-white. */
+.dark {
+  color-scheme: dark;
+  --background: #100f0d; /* warm near-black (DK base) */
+  --surface: #181714;
+  --surface-2: #201e1a;
+  --surface-3: #28251f;
+  --border: #2c2a25;
+  --border-strong: #3a372f;
+  --foreground: #f1eee8; /* warm ivory */
+  --muted: #a09a8f; /* warm taupe */
+  --muted-2: #6e695f;
+
+  --accent: #f1eee8; /* warm off-white */
+  --accent-2: #cfc8ba;
+  --accent-3: #ffffff;
+  --on-accent: #100f0d;
+
+  --glow: color-mix(in srgb, var(--foreground) 50%, transparent);
+  --ring: color-mix(in srgb, var(--foreground) 45%, transparent);
+
+  --glass-bg: color-mix(in srgb, var(--surface) 60%, transparent);
+  --glass-border: color-mix(in srgb, var(--foreground) 9%, transparent);
+  --shadow-soft: 0 1px 0 0 color-mix(in srgb, var(--foreground) 5%, transparent) inset,
+    0 20px 60px -25px rgba(0, 0, 0, 0.8);
+  --shadow-glow: 0 0 0 1px color-mix(in srgb, var(--foreground) 10%, transparent),
+    0 24px 60px -24px rgba(0, 0, 0, 0.9);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-2: var(--muted-2);
+  --color-accent: var(--accent);
+  --color-accent-2: var(--accent-2);
+  --color-accent-3: var(--accent-3);
+  --color-on-accent: var(--on-accent);
+
+  --font-display: var(--font-outfit), var(--font-manrope), var(--font-arabic),
+    system-ui, sans-serif;
+  --font-sans: var(--font-manrope), var(--font-arabic), system-ui, sans-serif;
+  --font-serif: var(--font-outfit), var(--font-manrope), system-ui, sans-serif;
+  --font-mono: var(--font-manrope), ui-monospace, "SF Mono", monospace;
+}
+
+/* Arabic-friendly font stack when the document is RTL. */
+:where([dir="rtl"]) {
+  --font-display: var(--font-arabic), var(--font-outfit), system-ui, sans-serif;
+  --font-sans: var(--font-arabic), var(--font-manrope), system-ui, sans-serif;
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ---- Typographic helpers ------------------------------------------------- */
+.label-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.24em;
+  font-size: 0.7rem;
+  color: var(--color-muted);
+}
+
+/* Aurora text — minimal kullanım; başlık vurgusu için. */
+.text-aurora {
+  /* Metallic bronze sheen — deep → bright champagne highlight → deep. */
+  background: linear-gradient(
+    100deg,
+    var(--color-accent-2) 0%,
+    var(--color-accent-3) 38%,
+    var(--color-accent) 62%,
+    var(--color-accent-2) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.rule-accent {
+  display: block;
+  height: 1px;
+  width: 2.5rem;
+  background: linear-gradient(90deg, var(--color-accent), transparent);
+}
+
+/* ---- Glass surface ------------------------------------------------------- */
+.glass {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  -webkit-backdrop-filter: blur(16px) saturate(140%);
+  backdrop-filter: blur(16px) saturate(140%);
+  box-shadow: var(--shadow-soft);
+}
+
+/* Hairline gradient border (data-card chrome). */
+.border-gradient {
+  position: relative;
+}
+.border-gradient::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(
+    140deg,
+    color-mix(in srgb, var(--color-accent) 50%, transparent),
+    transparent 40%,
+    transparent 60%,
+    color-mix(in srgb, var(--color-accent-3) 40%, transparent)
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+/* ---- 3D tilt card -------------------------------------------------------- */
+.tilt {
+  transform-style: preserve-3d;
+  transition: transform 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+.tilt-layer {
+  transform: translateZ(40px);
+}
+
+/* ---- Custom scrollbar ---------------------------------------------------- */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-surface-3);
+  border-radius: 9999px;
+  border: 2px solid var(--color-background);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-border-strong);
+}
+
+/* ---- Visible keyboard focus --------------------------------------------- */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Form fields — soft, on-brand focus: an accent border + a faint ring instead
+   of the hard global outline (which looks heavy on inputs/selects). */
+.cx-field:focus,
+.cx-field:focus-visible {
+  outline: none;
+  border-radius: 0.75rem;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 11%, transparent);
+}
+
+/* Subject picker — a NATIVE <details> dropdown: it opens via the browser's own
+   disclosure behaviour, so it works with zero JS / before hydration and cannot
+   "fail to open". Radios carry the value; :has() mirrors the choice into the
+   summary; the chevron flips when open. (recompile marker) */
+.cx-select > summary {
+  list-style: none;
+  cursor: pointer;
+}
+.cx-select > summary::-webkit-details-marker {
+  display: none;
+}
+.cx-select[open] .cx-chevron {
+  transform: rotate(180deg);
+}
+.cx-select .cx-opt {
+  display: none;
+}
+.cx-select:has(input[value="demo"]:checked) [data-opt="demo"],
+.cx-select:has(input[value="sales"]:checked) [data-opt="sales"],
+.cx-select:has(input[value="support"]:checked) [data-opt="support"],
+.cx-select:has(input[value="partnership"]:checked) [data-opt="partnership"],
+.cx-select:has(input[value="other"]:checked) [data-opt="other"] {
+  display: inline;
+}
+
+/* ============================================================================
+   KEYFRAMES & ANIMATIONS
+   ========================================================================== */
+
+/* Aurora mesh drift — the signature ambient background motion. */
+@keyframes aurora-drift {
+  0%,
+  100% {
+    transform: translate3d(-4%, -2%, 0) scale(1.1) rotate(0deg);
+  }
+  33% {
+    transform: translate3d(6%, 4%, 0) scale(1.25) rotate(8deg);
+  }
+  66% {
+    transform: translate3d(-3%, 5%, 0) scale(1.15) rotate(-6deg);
+  }
+}
+.animate-aurora {
+  animation: aurora-drift 26s ease-in-out infinite;
+}
+
+/* Scroll-cue dot travelling down a hairline track. */
+@keyframes scroll-dot {
+  0% {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  35% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(36px);
+    opacity: 0;
+  }
+}
+.scroll-dot {
+  animation: scroll-dot 2.2s cubic-bezier(0.65, 0, 0.35, 1) infinite;
+}
+
+/* Slow float for floating glass cards / orbs. */
+@keyframes float-y {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-14px);
+  }
+}
+.animate-float {
+  animation: float-y 7s ease-in-out infinite;
+}
+
+/* SVG slide-graphic motions (auto-neutralized under reduced-motion). */
+@keyframes svg-pulse {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.08;
+  }
+}
+.svg-pulse {
+  animation: svg-pulse 3.4s ease-in-out infinite;
+}
+@keyframes dash-flow {
+  to {
+    stroke-dashoffset: -36;
+  }
+}
+.dash-flow {
+  stroke-dasharray: 3 7;
+  animation: dash-flow 2.4s linear infinite;
+}
+
+/* Marquee for the logo / trust strip. */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee 32s linear infinite;
+}
+
+/* Slow spin for orbit rings. */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.animate-spin-slow {
+  animation: spin-slow 28s linear infinite;
+}
+
+/* Conic shimmer sweep for premium CTA / badges. */
+@keyframes sheen {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+/* Soft pulse for live status dots. */
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.7);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(2.6);
+    opacity: 0;
+  }
+}
+.pulse-ring::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: 1px solid currentColor;
+  animation: pulse-ring 2.4s ease-out infinite;
+}
+
+/* Dropdown / popover entrance (custom select menu). */
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+.animate-pop-in {
+  transform-origin: top;
+  animation: pop-in 0.16s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* Loading skeleton shimmer. */
+.skeleton {
+  background-color: var(--color-surface);
+  background-image: linear-gradient(
+    100deg,
+    transparent 20%,
+    color-mix(in srgb, var(--color-surface-3) 90%, transparent) 50%,
+    transparent 80%
+  );
+  background-size: 200% 100%;
+  background-repeat: no-repeat;
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+@keyframes shimmer {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+
+/* Per-navigation page enter (driven by [locale]/template.tsx). `backwards`:
+   no lingering transform so it never breaks position:sticky descendants. */
+.page-enter {
+  animation: page-enter-kf 0.55s cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+@keyframes page-enter-kf {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Scroll-driven reveal (CSS-only). Only dims when scroll-timeline is supported
+   AND motion is allowed, so unsupported / reduced-motion users see content. */
+@keyframes reveal-kf {
+  from {
+    opacity: 0;
+    transform: translateY(26px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .reveal {
+      opacity: 0;
+      animation: reveal-kf linear both;
+      animation-timeline: view();
+      animation-range: entry 0% cover 34%;
+    }
+  }
+}
+
+/* Grain: subtle multiply on light (default); overlay on dark. */
+.grain {
+  mix-blend-mode: multiply;
+  opacity: 0.03;
+}
+.dark .grain {
+  mix-blend-mode: overlay;
+  opacity: 0.05;
+}
+
+/* Number tickers / data read as tabular mono. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-mono);
+}
+
+/* Respect reduced-motion: neutralize keyframe loops + transitions globally. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

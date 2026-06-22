@@ -1,0 +1,1657 @@
+{
+  "meta": {
+    "title": "Corex360 — CRM · ERP · Business Intelligence sur une seule plateforme",
+    "description": "Corex360 unifie l'ensemble de votre activité — des ventes au stock, de la finance aux prévisions — en une seule source de vérité. Une intelligence d'affaires à 360°, en temps réel et propulsée par l'IA.",
+    "ogAlt": "Corex360 — plateforme unifiée de CRM, d'ERP et d'intelligence d'affaires"
+  },
+  "common": {
+    "brand": "Corex360",
+    "tagline": "Votre entreprise, à 360°",
+    "email": "hello@corex360.com",
+    "phone": "0216 475 39 37",
+    "address": "Maslak, Sarıyer / İstanbul",
+    "loading": "Chargement",
+    "comingSoon": "Bientôt disponible"
+  },
+  "nav": {
+    "home": "Accueil",
+    "solutions": "Solutions",
+    "current": "Actualités",
+    "product": "Produit",
+    "modules": "Modules",
+    "pricing": "Tarifs",
+    "resources": "Ressources",
+    "about": "À propos",
+    "contact": "Contact",
+    "signin": "Se connecter",
+    "launchApp": "Lancer l'application",
+    "getDemo": "Obtenir une démo",
+    "menu": "Menu",
+    "close": "Fermer"
+  },
+  "hero": {
+    "eyebrow": "CRM · ERP · Business Intelligence — une seule plateforme",
+    "titlePre": "Gérez une entreprise",
+    "titleAccent": "360°",
+    "titlePost": "de bout en bout.",
+    "body": "Corex360 réunit les ventes, les opérations et la finance dans une couche de données vivante. Fini les feuilles de calcul éparpillées — place à une vue à 360°, en temps réel et propulsée par l'IA.",
+    "ctaPrimary": "Commencer gratuitement",
+    "ctaSecondary": "Voir la démo en direct",
+    "badge": "Sans configuration · 14 jours gratuits",
+    "stats": {
+      "uptime": "Disponibilité",
+      "uptimeValue": "99,98 %",
+      "latency": "Latence des requêtes",
+      "latencyValue": "<40 ms",
+      "teams": "Équipes actives",
+      "teamsValue": "12 000+"
+    }
+  },
+  "intro": {
+    "label": "Qu'est-ce que Corex360",
+    "title": "Pas des outils éparpillés — une seule couche de vérité pour votre entreprise.",
+    "body": "Corex360 unifie le CRM, l'ERP et la business intelligence avec tous vos processus — WhatsApp, Instagram, votre site web, le standard, le suivi de flotte et l'archivage — dans une seule source de données vivante. Chaque contact client, chaque véhicule sur le terrain et chaque chiffre sur un écran ; les managers voient toute l'entreprise depuis un seul endroit, et le savoir reste dans l'entreprise."
+  },
+  "slider": {
+    "slides": {
+      "unify": {
+        "title": "Gérez une entreprise en 360°.",
+        "sub": "CRM, ERP et BI — pas des applis éparpillées, une seule plateforme."
+      },
+      "inbox": {
+        "title": "Tous les canaux dans une boîte de réception.",
+        "sub": "WhatsApp, Instagram, web et appels ; chaque message sur un écran, aucun perdu."
+      },
+      "decide": {
+        "title": "Décidez avec des données, instantanément.",
+        "sub": "Tableaux de bord en direct, prévisions IA et alertes d'anomalies."
+      },
+      "field": {
+        "title": "Du terrain au bureau, un seul flux.",
+        "sub": "Suivi de flotte, archivage et opérations — tout est connecté."
+      }
+    },
+    "items": {
+      "overview": {
+        "alt": "Gérez votre entreprise à 360° en numérique avec Corex360 — tous les modules en un hub."
+      },
+      "crm": {
+        "alt": "Gestion des ventes et du CRM : tout le parcours du lead au client en un seul flux."
+      },
+      "omnichannel": {
+        "alt": "Gestion omnicanale : tous les canaux de communication réunis en un hub."
+      }
+    }
+  },
+  "trust": {
+    "label": "La confiance des équipes en croissance"
+  },
+  "modules": {
+    "label": "Plateforme à 360°",
+    "title": "Trois forces, un seul cœur",
+    "body": "Un cœur de données unique plutôt que des outils séparés. Client, opération et décision — en même temps, dans la même vérité.",
+    "explore": "Explorer",
+    "items": {
+      "crm": {
+        "name": "CRM",
+        "tagline": "Relation client",
+        "description": "Pilotez tout le parcours, du prospect au client fidèle, sur un seul écran. Pipeline, automatisation et fiche client à 360°.",
+        "points": [
+          "Pipeline de vente visuel",
+          "Relances et rappels automatisés",
+          "Historique client à 360°",
+          "Intégration e-mail et WhatsApp"
+        ]
+      },
+      "erp": {
+        "name": "ERP",
+        "tagline": "Opérations et ressources",
+        "description": "Unifiez stock, achats, production et finance dans un même flux. Fini les écarts entre les services.",
+        "points": [
+          "Suivi des stocks en temps réel",
+          "Gestion des achats et des approvisionnements",
+          "Facturation et finance",
+          "Multi-entrepôt, multi-site"
+        ]
+      },
+      "bi": {
+        "name": "Business Intelligence",
+        "tagline": "Décisions et prévisions",
+        "description": "Transformez les données brutes en décisions. Tableaux de bord en direct, détection d'anomalies et prévisions propulsées par l'IA.",
+        "points": [
+          "Tableaux de bord par glisser-déposer",
+          "Prévisions par IA",
+          "Moteur d'anomalies et d'alertes",
+          "Requêtes en langage naturel"
+        ]
+      }
+    }
+  },
+  "features": {
+    "label": "Pourquoi Corex360",
+    "title": "La profondeur dans le détail, la simplicité à l'usage",
+    "body": "Une infrastructure complexe, une expérience simple. La puissance d'une grande entreprise à la vitesse d'une petite équipe.",
+    "items": {
+      "realtime": {
+        "title": "Temps réel",
+        "description": "Les données arrivent instantanément, et non en quelques secondes. Chaque tableau de bord est en direct — aucune actualisation nécessaire."
+      },
+      "ai": {
+        "title": "L'IA au cœur",
+        "description": "Prévisions, synthèses et requêtes en langage naturel intégrées à la plateforme."
+      },
+      "automation": {
+        "title": "Automatisation",
+        "description": "Automatisez les tâches répétitives grâce à des règles, pour que votre équipe se concentre sur l'essentiel."
+      },
+      "security": {
+        "title": "Sécurité de niveau entreprise",
+        "description": "Conformité SOC 2 et RGPD, accès basé sur les rôles et chiffrement de bout en bout."
+      },
+      "integrations": {
+        "title": "Plus de 120 intégrations",
+        "description": "Connectez en un clic les outils que vous utilisez déjà ; vos données arrivent au même endroit."
+      },
+      "global": {
+        "title": "Mondial et multilingue",
+        "description": "Multi-devise, multilingue et conformité régionale — mondial dès le premier jour."
+      }
+    }
+  },
+  "preview": {
+    "label": "Tableau de bord en direct",
+    "title": "Chaque décision, un seul écran",
+    "body": "Ventes, trésorerie et opérations dans un centre de commande unique. Découvrez à quoi ressemblent de vraies données.",
+    "kpis": {
+      "revenue": "Chiffre d'affaires mensuel",
+      "deals": "Affaires en cours",
+      "churn": "Attrition",
+      "nps": "Score NPS"
+    },
+    "chartTitle": "Flux de revenus",
+    "chartSub": "12 derniers mois",
+    "live": "En direct",
+    "openApp": "Ouvrir le tableau de bord"
+  },
+  "metrics": {
+    "title": "Corex360 en chiffres",
+    "items": {
+      "founded": {
+        "value": "2021",
+        "label": "Fondée en"
+      },
+      "teams": {
+        "value": "12K+",
+        "label": "Équipes actives"
+      },
+      "countries": {
+        "value": "38",
+        "label": "Pays"
+      },
+      "uptime": {
+        "value": "99,98 %",
+        "label": "Disponibilité"
+      }
+    }
+  },
+  "pricing": {
+    "label": "Tarifs",
+    "title": "Une offre qui grandit avec vous",
+    "body": "Des tarifs transparents, sans coûts cachés. Changez d'offre à la hausse ou à la baisse à tout moment.",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "yearlyNote": "2 mois offerts",
+    "perUserMonth": "utilisateur / mois",
+    "custom": "Sur mesure",
+    "mostPopular": "Le plus populaire",
+    "tiers": {
+      "starter": {
+        "name": "Starter",
+        "desc": "Pour les petites équipes qui démarrent.",
+        "cta": "Commencer gratuitement",
+        "features": [
+          "Jusqu'à 5 utilisateurs",
+          "Cœur CRM",
+          "Tableaux de bord de base",
+          "Support communautaire"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "desc": "Toute la puissance pour les équipes en accélération.",
+        "cta": "Essayer 14 jours",
+        "features": [
+          "Utilisateurs illimités",
+          "CRM + ERP + BI",
+          "Prévisions par IA",
+          "Moteur d'automatisation",
+          "Support prioritaire"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "desc": "Pour les grandes organisations et les besoins sur mesure.",
+        "cta": "Nous contacter",
+        "features": [
+          "SLA et déploiement sur mesure",
+          "SSO et sécurité avancée",
+          "Intégrations sur mesure",
+          "Gestionnaire de compte dédié",
+          "Formation sur site"
+        ]
+      }
+    }
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Vos questions, nos réponses",
+    "items": {
+      "data": {
+        "q": "Mes données sont-elles en sécurité ?",
+        "a": "Toutes les données sont chiffrées de bout en bout et stockées sur une infrastructure conforme aux normes SOC 2 et RGPD. Vos données vous appartiennent toujours."
+      },
+      "migration": {
+        "q": "La migration depuis mon système actuel est-elle difficile ?",
+        "a": "Non. Nous proposons un import en un clic depuis Excel, votre CRM/ERP existant et plus de 120 outils, et notre équipe vous accompagne tout au long de la migration."
+      },
+      "security": {
+        "q": "Puis-je gérer les autorisations d'accès ?",
+        "a": "Oui. L'accès basé sur les rôles, les autorisations par équipe et par service, les journaux d'audit et le SSO sont inclus de série dans l'offre Enterprise."
+      },
+      "pricing": {
+        "q": "Y a-t-il des frais cachés ?",
+        "a": "Aucun. Le prix affiché est le prix que vous payez. Modifiez ou résiliez votre offre à tout moment."
+      },
+      "support": {
+        "q": "Comment fonctionne le support ?",
+        "a": "Le support est disponible sur toutes les offres ; les offres Growth et Enterprise bénéficient d'un support prioritaire et dédié."
+      },
+      "ai": {
+        "q": "À quoi servent les fonctionnalités d'IA ?",
+        "a": "Prévisions des ventes, détection d'anomalies, synthèses automatiques et requêtes en langage naturel (« qui a le plus vendu le trimestre dernier ? »)."
+      }
+    }
+  },
+  "cta": {
+    "label": "Prêt ?",
+    "title": "Une vue à 360° de votre entreprise\nest à un clic",
+    "body": "Aucune carte bancaire requise. Essayez toutes les fonctionnalités gratuitement pendant 14 jours.",
+    "primary": "Commencer gratuitement",
+    "secondary": "Parler aux ventes",
+    "circleTitle": "Laissez le chaos,",
+    "circleAccent": "installez l’ordre.",
+    "circleAction": "Commencer"
+  },
+  "certs": {
+    "label": "Certifications & Conformité",
+    "infosec": "Sécurité de l'information",
+    "quality": "Management qualité",
+    "compliance": "Conformité",
+    "dataprotection": "Protection des données"
+  },
+  "footer": {
+    "tagline": "Toute votre entreprise dans une seule source de vérité.",
+    "product": "Produit",
+    "company": "Entreprise",
+    "resources": "Ressources",
+    "legal": "Mentions légales",
+    "newsletter": "Rejoindre la newsletter",
+    "newsletterBody": "Nouveautés produit et analyses BI — une fois par mois, sans spam.",
+    "emailPlaceholder": "Votre e-mail",
+    "subscribe": "Rejoindre",
+    "copyright": "© {year} Corex360. Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "cookies": "Politique de cookies",
+    "kvkk": "KVKK",
+    "madeIn": "Conçu avec ❤️ en Türkiye",
+    "links": {
+      "modules": "Modules",
+      "pricing": "Tarifs",
+      "changelog": "Journal des modifications",
+      "status": "État du service",
+      "about": "À propos",
+      "careers": "Carrières",
+      "contact": "Contact",
+      "blog": "Blog",
+      "docs": "Documentation",
+      "guides": "Guides",
+      "api": "API"
+    }
+  },
+  "app": {
+    "nav": {
+      "overview": "Vue d'ensemble",
+      "customers": "Clients",
+      "sales": "Ventes",
+      "inventory": "Stock",
+      "analytics": "Analyses",
+      "automation": "Automatisation",
+      "settings": "Paramètres"
+    },
+    "backToSite": "Retour au site",
+    "search": "Rechercher ou exécuter une commande…",
+    "greeting": "Bon retour",
+    "subtitle": "Voici votre centre de commande pour aujourd'hui.",
+    "period": "30 derniers jours",
+    "kpis": {
+      "revenue": "Chiffre d'affaires",
+      "deals": "Affaires gagnées",
+      "customers": "Nouveaux clients",
+      "churn": "Attrition"
+    },
+    "revenueChart": "Flux de revenus",
+    "pipeline": "Pipeline de vente",
+    "recentActivity": "Activité récente",
+    "topProducts": "Meilleurs produits",
+    "vsLastPeriod": "vs période précédente",
+    "demoNote": "Ceci est un tableau de bord de démonstration fonctionnant sur des données d'exemple."
+  },
+  "commandCenter": {
+    "title": "Un centre de commande au lieu de huit applications",
+    "body": "Un message WhatsApp, un commentaire Instagram, un appel au standard, un formulaire web, un véhicule sur le terrain et un contrat à signer — non plus éparpillés, mais sur un seul écran.",
+    "live": "En direct",
+    "channelsLabel": "Canaux entrants",
+    "opsLabel": "Opérations",
+    "ch": {
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram",
+      "social": "Réseaux sociaux",
+      "web": "Site web",
+      "santral": "Standard tél."
+    },
+    "op": {
+      "arac": "Suivi de flotte",
+      "dosya": "Archivage",
+      "crm": "Ventes / CRM"
+    },
+    "kpi": {
+      "conv": "Conversations ouvertes",
+      "calls": "Appels aujourd'hui",
+      "vehicles": "Véhicules en route"
+    },
+    "inboxTitle": "Boîte de réception unifiée",
+    "filesTitle": "Documents récents",
+    "fleetTitle": "Flotte"
+  },
+  "how": {
+    "label": "Comment ça marche",
+    "title": "Une vue 360° en trois étapes",
+    "body": "De l'installation à votre première décision en quelques minutes. Aucun projet d'intégration complexe.",
+    "steps": [
+      {
+        "no": "01",
+        "title": "Connecter",
+        "desc": "Importez Excel, votre CRM/ERP existant et plus de 120 outils en un clic. L'installation prend quelques minutes."
+      },
+      {
+        "no": "02",
+        "title": "Unifier",
+        "desc": "Ventes, opérations et finance se rejoignent automatiquement dans une seule couche de données vivante."
+      },
+      {
+        "no": "03",
+        "title": "Décider",
+        "desc": "Prenez chaque décision avec des données, instantanément — tableaux de bord en direct et prévisions par IA."
+      }
+    ]
+  },
+  "manifesto": {
+    "label": "Approche",
+    "lead": "Tableurs éparpillés, systèmes déconnectés, décisions tardives. Corex360 met fin à tout cela dans une seule couche de vérité vivante — simple, rapide, honnête.",
+    "principles": [
+      {
+        "no": "01",
+        "title": "Une seule source de vérité",
+        "desc": "Ventes, opérations et finance se rejoignent dans les mêmes données ; les ruptures entre services disparaissent."
+      },
+      {
+        "no": "02",
+        "title": "Décider en temps réel",
+        "desc": "Les données circulent instantanément, pas en quelques secondes. Chaque tableau de bord est en direct — aucune attente."
+      },
+      {
+        "no": "03",
+        "title": "La puissance, simplifiée",
+        "desc": "La profondeur de l'entreprise à la vitesse d'une petite équipe. La complexité dessous, la simplicité dessus."
+      }
+    ]
+  },
+  "quote": {
+    "text": "Une entreprise ne grandit pas quand elle voit ses données, mais quand elle agit dessus.",
+    "source": "Conseil d'administration Corex360"
+  },
+  "about": {
+    "label": "À propos",
+    "title": "Nous créons le logiciel qui pilote une entreprise en 360° — depuis la Türkiye.",
+    "titlePre": "L'ordre derrière le",
+    "titleEm": "chaos.",
+    "explore": "Découvrir",
+    "lead": "Corex360 est une plateforme de gestion d'entreprise intégrée qui réunit les processus dispersés d'une organisation dans un hub numérique unique. Des ventes aux opérations, de la relation client au reporting, elle rend chaque flux de travail plus visible, mesurable et gérable.",
+    "stat": {
+      "label": "une plateforme"
+    },
+    "story": {
+      "label": "Notre histoire",
+      "title": "Née d'un vrai besoin.",
+      "p1": "Nous avons vu des entreprises en croissance perdre en efficacité entre des logiciels disparates, des tableurs déconnectés et des canaux de communication dispersés. Nous étions convaincus que chaque processus — des ventes aux opérations, de la relation client au reporting — devait être piloté depuis un hub unique.",
+      "p2": "Corex360 est né de ce besoin : une plateforme de gestion intégrée qui réunit CRM, ERP, business intelligence et canaux de communication dans une seule couche de données vivante, en s'adaptant au flux de travail quotidien des équipes."
+    },
+    "group": {
+      "label": "Structure de l'entreprise",
+      "title": "Une filiale de SAVAŞ GRUP.",
+      "tag": "Filiale technologique",
+      "brands": "Sociétés du groupe",
+      "body": "Corex360 est la filiale technologique de la société bien établie SAVAŞ GRUP SANAYİ ve TİCARET A.Ş. Il a été développé en combinant l'expérience du groupe dans l'industrie, le commerce et les opérations de terrain avec l'ingénierie logicielle moderne.",
+      "body2": "C'est pourquoi Corex360 n'est pas qu'un simple logiciel ; c'est une plateforme de gestion intégrée née de besoins métier réels, façonnée au cœur des opérations et conçue pour s'adapter aux processus quotidiens des entreprises en croissance."
+    },
+    "team": {
+      "title": "Une équipe de terrain",
+      "sub": "Nous réunissons notre expertise de différentes disciplines avec une vision produit qui comprend les processus métier réels.",
+      "badge": "BUREAU",
+      "careersTitle": "Carrières",
+      "careersSub": "Envie de marcher vers la même vision avec nous ?"
+    },
+    "founders": {
+      "label": "Fondateurs",
+      "title": "Deux forces distinctes, un même objectif.",
+      "body": "Au cœur de Corex360 se rencontrent un regard stratégique qui lit l'activité sur le terrain et un esprit d'ingénieur qui conçoit la technologie en profondeur.",
+      "body2": "Né aujourd'hui de l'union de ces deux forces, Corex360 ne se positionne pas comme un simple logiciel que l'on utilise, mais comme une plateforme de gestion qui contribue directement à la décision, au suivi et à la croissance des entreprises.",
+      "yasin": {
+        "name": "Yasin Savaş",
+        "role": "Associé fondateur · Stratégie & Business",
+        "bio": "Donne la direction de la plateforme par sa vision commerciale, son réflexe entrepreneurial et sa maîtrise des processus métier."
+      },
+      "sevket": {
+        "name": "Şevket Erer",
+        "role": "Associé fondateur · Technologie",
+        "bio": "A construit la structure technique qui transforme cette vision en une base logicielle puissante, flexible et durable."
+      },
+      "close": "Corex360 est porté par la vision commune de deux associés qui ont vécu le besoin sur le terrain."
+    },
+    "values": {
+      "label": "Nos valeurs",
+      "items": [
+        {
+          "title": "Ancré dans le terrain",
+          "desc": "Notre produit vient des opérations quotidiennes d'entreprises réelles, pas de la théorie."
+        },
+        {
+          "title": "Simplicité",
+          "desc": "Nous offrons la puissance de l'entreprise dans une expérience simple que chaque équipe utilise avec aisance."
+        },
+        {
+          "title": "Respect des données",
+          "desc": "Vos données vous appartiennent — protégées en toute sécurité et transparence, et conformes au RGPD/KVKK."
+        }
+      ]
+    },
+    "imageLabel": "Zone d'image"
+  },
+  "solutions": {
+    "label": "Solutions",
+    "hero": {
+      "titlePre": "Chaque activité a son propre ordre.",
+      "titleEm": "Corex360 s'adapte à toutes.",
+      "lead": "De la logistique à la santé, du commerce à l'éducation, chaque secteur a son rythme. Corex360 réunit les ventes, les opérations, la relation client et le reporting dans une seule couche de données vivante — sans casser ce rythme.",
+      "scrollCue": "Explorer"
+    },
+    "approach": {
+      "label": "Notre approche",
+      "title": "Pas un logiciel distinct par secteur, mais une seule plateforme qui s'adapte à chacun.",
+      "p1": "La plupart des entreprises achètent un outil distinct pour chaque besoin : un pour le stock, un pour le terrain, un pour la comptabilité. Avec le temps, ces outils deviennent des îlots déconnectés, et le vrai coût n'apparaît pas dans les licences, mais dans les données perdues et le travail répété.",
+      "p2": "Corex360 fait l'inverse. Il réunit CRM, ERP et business intelligence dans un seul cœur, configuré selon le langage de votre secteur, les habitudes de vos équipes et la réalité du terrain.",
+      "coreLabel": "Un seul cœur, configuré selon le langage de chaque secteur.",
+      "statValue": "6+",
+      "statLabel": "flux sectoriels prêts",
+      "quote": "Vous adaptez le logiciel à votre activité, et non l'inverse."
+    },
+    "sectors": {
+      "label": "Par secteur",
+      "title": "Configuré pour votre domaine.",
+      "lead": "Des flux prêts à l'emploi pour les secteurs avec lesquels nous travaillons le plus — personnalisés à vos besoins en quelques minutes.",
+      "items": {
+        "logistics": {
+          "title": "Logistique & Flotte",
+          "desc": "Réunissez le suivi des véhicules, la gestion des chauffeurs et la planification des trajets sur un seul écran."
+        },
+        "construction": {
+          "title": "Construction & Chantier",
+          "desc": "Suivez le personnel de terrain, les équipements et l'avancement des projets en temps réel."
+        },
+        "hospitality": {
+          "title": "Hôtellerie & Tourisme",
+          "desc": "Gérez les réservations, la relation client et le flux du personnel de bout en bout."
+        },
+        "health": {
+          "title": "Santé & Clinique",
+          "desc": "Gérez les rendez-vous, les dossiers patients et la facturation en conformité RGPD/KVKK."
+        },
+        "retail": {
+          "title": "Commerce & Magasin",
+          "desc": "Réunissez la gestion des points de vente, le stock et la fidélité client dans un seul panneau."
+        },
+        "education": {
+          "title": "Éducation & Institution",
+          "desc": "Réunissez la gestion du personnel, des élèves et des documents dans un flux ordonné."
+        }
+      },
+      "notListedTitle": "Vous ne voyez pas votre secteur ?",
+      "notListedDesc": "Corex360 repose sur un cœur indépendant du secteur ; nous écoutons votre besoin et le configurons pour vous.",
+      "notListedCta": "Contactez-nous"
+    },
+    "resources": {
+      "label": "Ressources",
+      "title": "Explorez avant de commencer.",
+      "items": {
+        "stories": {
+          "title": "Témoignages clients",
+          "desc": "Les histoires de réussite d'entreprises qui grandissent avec Corex360."
+        },
+        "videos": {
+          "title": "Tutoriels vidéo",
+          "desc": "Présentations des modules et guides d'utilisation pas à pas."
+        },
+        "docs": {
+          "title": "Documentation",
+          "desc": "Référence d'API, guides d'intégration et exemples."
+        },
+        "support": {
+          "title": "Support 24/7",
+          "desc": "Une ligne d'assistance ininterrompue par chat, téléphone et e-mail."
+        }
+      },
+      "webinar": {
+        "tag": "Webinaire",
+        "title": "Architecture SaaS multi-tenant",
+        "desc": "Une session en direct chaque mois — inscription gratuite.",
+        "cta": "S'inscrire"
+      }
+    },
+    "faq": {
+      "label": "Questions fréquentes",
+      "title": "À propos des solutions",
+      "items": {
+        "sectors": {
+          "q": "À quels secteurs Corex360 convient-il ?",
+          "a": "Il s'adapte à toute activité dont les processus sont pilotés par les données — en premier lieu la logistique, la construction, l'hôtellerie, la santé, le commerce et l'éducation. Le cœur est indépendant du secteur ; les flux sont configurés pour vous."
+        },
+        "notListed": {
+          "q": "Je ne vois pas mon secteur dans la liste, puis-je quand même l'utiliser ?",
+          "a": "Oui. Les secteurs listés sont ceux avec lesquels nous travaillons le plus ; le produit est conçu pour s'adapter à toute opération. Partagez votre besoin et nous établirons une configuration sur mesure."
+        },
+        "adapt": {
+          "q": "En combien de temps peut-il être adapté à mon secteur ?",
+          "a": "Les flux sectoriels prêts à l'emploi sont actifs en quelques minutes ; la configuration de processus spécifiques prend généralement quelques jours. Pour les intégrations complexes, notre équipe vous accompagne de bout en bout."
+        },
+        "data": {
+          "q": "Nos données sont-elles en sécurité ?",
+          "a": "Vos données vous appartiennent — stockées chiffrées, isolées et conformes au KVKK et au RGPD. Les droits d'accès sont basés sur les rôles et chaque action est journalisée."
+        },
+        "migrate": {
+          "q": "Puis-je migrer mes données existantes ?",
+          "a": "L'import de données est pris en charge via Excel, les systèmes CRM/ERP existants et l'API. Notre équipe planifie la migration pour que votre activité continue sans interruption."
+        }
+      }
+    }
+  },
+  "resourcesPage": {
+    "label": "Ressources",
+    "hero": {
+      "titlePre": "Apprenez, créez,",
+      "titleEm": "maîtrisez.",
+      "lead": "Tout ce dont vous avez besoin pour tirer le meilleur de Corex360, au même endroit — documentation, tutoriels vidéo, témoignages clients et sessions en direct.",
+      "scrollCue": "Explorer"
+    },
+    "paths": {
+      "label": "Parcours d'apprentissage",
+      "title": "Où que vous commenciez, votre parcours est prêt.",
+      "p1": "Développeur, nouvel utilisateur ou décideur — il existe un point de départ pensé pour chaque rôle. Configurez rapidement avec la documentation, apprenez pas à pas avec les vidéos.",
+      "p2": "Mesurez les résultats à travers de vrais témoignages clients, et découvrez les coulisses lors de nos sessions mensuelles en direct. Toutes les ressources sont proposées en cinq langues.",
+      "statValue": "4 ressources",
+      "statLabel": "En un seul espace",
+      "quote": "Adopter vraiment un logiciel commence par le comprendre en profondeur."
+    },
+    "featured": {
+      "label": "Disponible maintenant",
+      "title": "Tout ce que vous pouvez explorer dès maintenant.",
+      "lead": "Les quatre ressources sont en ligne — cliquez et commencez tout de suite."
+    },
+    "items": {
+      "docs": {
+        "title": "Documentation",
+        "desc": "De l'installation à l'API, des intégrations à la sécurité — un guide complet enrichi d'exemples de code."
+      },
+      "videos": {
+        "title": "Tutoriels vidéo",
+        "desc": "De courts tutoriels qui présentent les modules pas à pas. Regardez, appliquez, maîtrisez en quelques minutes."
+      },
+      "stories": {
+        "title": "Témoignages clients",
+        "desc": "Les expériences réelles et les résultats mesurables d'équipes qui ont placé Corex360 au cœur de leur activité."
+      },
+      "webinar": {
+        "title": "Webinaire",
+        "desc": "Architecture et bonnes pratiques lors d'une session mensuelle en direct — nous répondons à vos questions en temps réel."
+      }
+    },
+    "webinarStrip": {
+      "tag": "Session en direct mensuelle",
+      "title": "Rejoignez-nous avec votre équipe.",
+      "desc": "De l'architecture SaaS multi-tenant à la feuille de route produit — un nouveau sujet chaque mois, avec questions-réponses en direct.",
+      "cta": "Inscription gratuite",
+      "meta": {
+        "date": "Premier jeudi du mois",
+        "price": "Gratuit"
+      }
+    },
+    "upcoming": {
+      "label": "Plus",
+      "title": "Suivez le produit de près.",
+      "items": {
+        "changelog": {
+          "desc": "Ce qui a changé à chaque version, sur une seule page."
+        },
+        "status": {
+          "desc": "L'état en temps réel de chaque service."
+        },
+        "blog": {
+          "desc": "Articles sur le produit, l'ingénierie et le secteur."
+        }
+      }
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "À propos des ressources",
+      "items": {
+        "where": {
+          "q": "Quelles ressources sont disponibles dès maintenant ?",
+          "a": "La documentation, les tutoriels vidéo, les témoignages clients, notre webinaire mensuel, le blog, les notes de version et la page d'état du système sont tous en ligne."
+        },
+        "free": {
+          "q": "Les ressources sont-elles gratuites ?",
+          "a": "Oui. La documentation, les vidéos et les témoignages clients sont ouverts et gratuits pour tous ; la participation au webinaire mensuel est également gratuite."
+        },
+        "languages": {
+          "q": "Dans quelles langues les ressources sont-elles proposées ?",
+          "a": "L'ensemble du site et des ressources est proposé en cinq langues : turc, anglais, français, russe et arabe."
+        },
+        "webinar": {
+          "q": "Comment m'inscrire au webinaire ?",
+          "a": "Il suffit de remplir le formulaire sur la page du webinaire. Nous sommes en direct le premier jeudi de chaque mois, et l'inscription est gratuite."
+        }
+      }
+    },
+    "meta": {
+      "title": "Apprenez, créez, maîtrisez.",
+      "description": "Tout ce dont vous avez besoin pour tirer le meilleur de Corex360, au même endroit — documentation, tutoriels vidéo, témoignages clients et sessions en direct."
+    }
+  },
+  "stories": {
+    "label": "Témoignages clients",
+    "crumbResources": "Ressources",
+    "hero": {
+      "titlePre": "Leur réussite,",
+      "titleEm": "notre histoire.",
+      "lead": "Les expériences réelles d'équipes qui ont placé Corex360 au cœur de leur activité — le passage de l'éparpillement à l'ordre, dans leurs propres mots."
+    },
+    "care": {
+      "label": "Le client d'abord",
+      "title": "Chaque histoire commence par une relation de confiance.",
+      "p1": "Pour nous, un client n'est pas une vente conclue mais un chemin parcouru ensemble. Nous sommes à vos côtés lors de l'installation, vous accompagnons les premières semaines et grandissons avec vous.",
+      "p2": "Car Corex360 est né du terrain ; nous savons ce qu'il faut pour faire tourner une entreprise. C'est pourquoi chaque retour nourrit la feuille de route, et chaque demande d'assistance atteint une vraie personne."
+    },
+    "testimonialsLabel": "Dans leurs mots",
+    "testimonialsTitle": "De vraies voix du terrain.",
+    "watch": "Regarder",
+    "videoTag": "Entretien",
+    "items": {
+      "logistics": {
+        "sector": "Logistique & Flotte",
+        "author": "Responsable des opérations",
+        "metric": "planification 38 % plus rapide",
+        "duration": "1:52",
+        "quote": "Nous suivions véhicules, chauffeurs et trajets dans des tableaux séparés. Corex360 a tout réuni sur un seul écran ; le matin, on commence désormais par le panneau."
+      },
+      "retail": {
+        "sector": "Commerce & Magasin",
+        "author": "Directrice du commerce",
+        "metric": "12 panneaux → 1",
+        "duration": "2:14",
+        "quote": "Gérer chaque point de vente séparément nous ralentissait. En les réunissant dans un seul panneau, la démarque a baissé et nous décidons bien plus vite."
+      },
+      "construction": {
+        "sector": "Construction & Chantier",
+        "author": "Coordinateur de projet",
+        "metric": "Chantier en temps réel",
+        "duration": "1:38",
+        "quote": "Le chantier remontait toujours au bureau avec du retard. Nous voyons désormais l'avancement en direct ; régler un problème le jour même change tout."
+      }
+    },
+    "disclaimer": "Témoignages représentatifs ; les vraies vidéos et les noms des clients seront ajoutés une fois validés pour publication."
+  },
+  "videos": {
+    "label": "Tutoriels vidéo",
+    "crumbResources": "Ressources",
+    "hero": {
+      "titlePre": "Apprenez en regardant,",
+      "titleEm": "en quelques minutes.",
+      "lead": "De courts tutoriels qui parcourent les modules pas à pas — de l'installation aux fonctions avancées, pour que votre équipe monte vite en compétence.",
+      "meta": "11 vidéos · ~50 minutes"
+    },
+    "learn": {
+      "label": "Notre approche de l'apprentissage",
+      "title": "Apprendre, c'est la moitié de l'usage.",
+      "p1": "Même le meilleur logiciel prend la poussière si votre équipe ne l'adopte pas. C'est pourquoi, en présentant Corex360, nous regardons les vrais flux de travail, pas la théorie : chaque écran que vous voyez est celui que vous utiliserez demain.",
+      "p2": "Avec des vidéos courtes, claires et pas à pas, nous vous guidons de l'installation aux fonctions avancées. L'objectif : dès la première semaine, votre équipe se tourne d'elle-même vers le panneau."
+    },
+    "libraryLabel": "Bibliothèque de tutoriels",
+    "libraryTitle": "De bout en bout, module par module.",
+    "imageLabel": "Zone d'image",
+    "featuredTag": "À la une",
+    "watch": "Regarder",
+    "items": {
+      "intro": {
+        "category": "Démarrage",
+        "title": "Premier aperçu de Corex360 : 10 minutes dans le panneau",
+        "desc": "Le flux de base du panneau, le passage entre modules et la première configuration — une visite pour les nouveaux venus."
+      },
+      "crm": {
+        "category": "CRM",
+        "title": "Construisez le parcours client de bout en bout"
+      },
+      "erp": {
+        "category": "ERP",
+        "title": "Gérez stock et achats dans un seul flux"
+      },
+      "bi": {
+        "category": "Business Intelligence",
+        "title": "Tableaux de bord en direct et alertes d'anomalies"
+      },
+      "automation": {
+        "category": "Automatisation",
+        "title": "Automatisez les tâches répétitives avec des règles"
+      },
+      "mobile": {
+        "category": "Mobile",
+        "title": "Mobile sur le terrain : les opérations partout"
+      },
+      "reporting": {
+        "category": "Reporting",
+        "title": "Des rapports personnalisés en quelques minutes"
+      },
+      "appointments": {
+        "category": "Rendez-vous",
+        "title": "Connectez votre agenda aux opérations"
+      },
+      "projects": {
+        "category": "Projets",
+        "title": "Pilotez les projets de bout en bout"
+      },
+      "quotes": {
+        "category": "Devis",
+        "title": "Préparez les devis vite et faites-les approuver facilement"
+      },
+      "contracts": {
+        "category": "Contrats",
+        "title": "Organisez les contrats et sécurisez les processus"
+      }
+    },
+    "disclaimer": "Affiches représentatives ; le vrai contenu vidéo les remplacera au fur et à mesure de leur publication."
+  },
+  "docs": {
+    "label": "Documentation",
+    "crumbResources": "Ressources",
+    "hero": {
+      "titlePre": "Tout est documenté,",
+      "titleEm": "à portée de main.",
+      "lead": "De l'installation à l'API, des intégrations à la sécurité — des ressources qui expliquent Corex360 de bout en bout, riches en exemples de code.",
+      "searchPlaceholder": "Rechercher dans la doc…"
+    },
+    "dev": {
+      "label": "Pensé pour les développeurs",
+      "title": "Écrit pour être utilisé, pas seulement lu.",
+      "p1": "Chaque page s'accompagne d'exemples « copier-exécuter ». Pas besoin de lire des pages pour tester un endpoint ; vous prenez l'exemple, ajoutez votre clé et l'exécutez.",
+      "p2": "Notre API REST est prévisible, cohérente et bien documentée. Les SDK officiels sont prêts pour JavaScript, Python et PHP ; avec les webhooks, vous vous abonnez aux événements en temps réel."
+    },
+    "categories": {
+      "label": "Catégories",
+      "title": "Choisissez par où commencer.",
+      "lead": "Chaque section est découpée en courts articles orientés tâches.",
+      "unit": "articles",
+      "items": {
+        "quickstart": {
+          "title": "Démarrage rapide",
+          "desc": "Cinq minutes de l'installation au premier appel d'API."
+        },
+        "api": {
+          "title": "Référence d'API",
+          "desc": "Chaque endpoint, paramètre et exemple de réponse."
+        },
+        "guides": {
+          "title": "Guides",
+          "desc": "Des tutoriels pas à pas basés sur des scénarios."
+        },
+        "integrations": {
+          "title": "Intégrations",
+          "desc": "WhatsApp, e-mail, comptabilité et 120+ outils."
+        },
+        "sdk": {
+          "title": "SDK & bibliothèques",
+          "desc": "Des paquets officiels pour JavaScript, Python et PHP."
+        },
+        "webhooks": {
+          "title": "Webhooks & événements",
+          "desc": "Abonnez-vous aux événements en temps réel en quelques secondes."
+        },
+        "security": {
+          "title": "Identité & sécurité",
+          "desc": "OAuth, clés d'API et accès basé sur les rôles."
+        },
+        "changelog": {
+          "title": "Notes de version",
+          "desc": "Nouvelles fonctionnalités, améliorations et changements."
+        }
+      }
+    }
+  },
+  "webinar": {
+    "label": "Webinaire",
+    "crumbResources": "Ressources",
+    "hero": {
+      "titlePre": "Architecture SaaS",
+      "titleEm": "multi-tenant.",
+      "lead": "Chaque mois, une session en direct vous emmène dans les coulisses de l'architecture qui fait tourner Corex360. Nous répondons à vos questions en direct — inscription gratuite."
+    },
+    "meta": {
+      "date": "Premier jeudi du mois",
+      "time": "20:00 (GMT+3)",
+      "format": "En ligne · en direct",
+      "price": "Gratuit"
+    },
+    "agenda": {
+      "label": "Dans cette session",
+      "title": "L'architecture de bout en bout en une session.",
+      "items": [
+        "Isolation des données multi-tenant : stratégies de schéma, de lignes et de bases",
+        "Passer à l'échelle de milliers de locataires sur un seul cœur",
+        "La couche de données en temps réel et la synchronisation événementielle",
+        "Sécurité, RGPD/KVKK et autorisation par locataire",
+        "Questions-réponses en direct"
+      ]
+    },
+    "host": {
+      "label": "Animé par",
+      "name": "Şevket Erer",
+      "role": "Associé fondateur · Technologie",
+      "bio": "Construit des plateformes SaaS et data depuis plus de 10 ans ; a conçu l'architecture multi-tenant de Corex360 de A à Z."
+    },
+    "form": {
+      "title": "Réservez votre place gratuite",
+      "sub": "Nous enverrons le lien de connexion par e-mail avant la session.",
+      "name": "Nom complet",
+      "email": "E-mail",
+      "company": "Entreprise",
+      "submit": "S'inscrire gratuitement",
+      "note": "En vous inscrivant, vous acceptez notre politique de confidentialité. Vous pouvez vous désinscrire à tout moment.",
+      "successTitle": "Vous êtes inscrit !",
+      "successBody": "Nous enverrons le lien de connexion avant la session. À bientôt."
+    },
+    "benefits": {
+      "label": "Pourquoi participer",
+      "title": "On parle production, pas théorie.",
+      "items": {
+        "practical": {
+          "title": "Architecture applicable",
+          "desc": "Pas des slides — de vraies décisions de production, les pièges de mise à l'échelle et leurs solutions."
+        },
+        "interactive": {
+          "title": "Questions-réponses en direct",
+          "desc": "Apportez votre scénario ; raisonnons ensemble sur l'architecture."
+        },
+        "recording": {
+          "title": "Enregistrement + ressources",
+          "desc": "Indisponible en direct ? Nous vous envoyons l'enregistrement et les slides par e-mail."
+        }
+      }
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "À propos du webinaire",
+      "items": {
+        "who": {
+          "q": "À qui s'adresse le webinaire ?",
+          "a": "Architectes logiciels, leads techniques et développeurs construisant du SaaS multi-tenant. Des bases en backend suffisent."
+        },
+        "recording": {
+          "q": "Puis-je obtenir l'enregistrement ensuite ?",
+          "a": "Oui. Toute personne inscrite reçoit l'enregistrement et les slides par e-mail après la session."
+        },
+        "cost": {
+          "q": "Est-ce payant ?",
+          "a": "Non, le webinaire est entièrement gratuit. Il suffit de s'inscrire."
+        },
+        "questions": {
+          "q": "Comment poser mes questions ?",
+          "a": "Pendant la session de questions-réponses en direct ; vous pouvez aussi ajouter une note sur le formulaire d'inscription."
+        }
+      }
+    }
+  },
+  "modulesPage": {
+    "label": "Modules",
+    "hero": {
+      "titlePre": "Une plateforme,",
+      "titleEm": "un module pour chaque métier.",
+      "lead": "Des RH aux opérations, de la communication au web — des modules conçus pour chaque partie de votre activité, tous sur la même couche de données vivante.",
+      "stat": "20 modules · 13 intégrations",
+      "scrollCue": "Explorer"
+    },
+    "categories": {
+      "ik-musteri": "RH & Client",
+      "ticaret-finans": "Commerce & Finance",
+      "operasyon-takip": "Opérations & Suivi",
+      "satis-katalog": "Ventes & Catalogue",
+      "iletisim-web": "Communication & Web"
+    },
+    "items": {
+      "crm": {
+        "title": "CRM",
+        "desc": "Fiche client, contacts et gestion des opportunités."
+      },
+      "erp": {
+        "title": "ERP",
+        "desc": "Commandes, stock, achats et gestion des processus."
+      },
+      "ikpdks": {
+        "title": "RH & Présence",
+        "desc": "Personnel, horaires, heures sup. et suivi des congés."
+      },
+      "drive": {
+        "title": "Corex Drive",
+        "desc": "Gestion des fichiers, dossiers et documents d'entreprise."
+      },
+      "eticaret": {
+        "title": "E-Commerce",
+        "desc": "Boutique en ligne, commandes et gestion des campagnes."
+      },
+      "muhasebe": {
+        "title": "Comptabilité",
+        "desc": "Facturation, encaissement, recettes-dépenses et trésorerie."
+      },
+      "stok": {
+        "title": "Stock & Inventaire",
+        "desc": "Niveaux de stock, mouvements d'entrepôt et inventaire."
+      },
+      "finansrapor": {
+        "title": "Reporting financier",
+        "desc": "Rentabilité, analyse des revenus et rapports financiers."
+      },
+      "aractakip": {
+        "title": "Suivi de flotte",
+        "desc": "Flotte, entretien, assurance et suivi de performance."
+      },
+      "canlitakip": {
+        "title": "Suivi en direct",
+        "desc": "Localisation en temps réel, terrain et carte."
+      },
+      "gorevtakip": {
+        "title": "Suivi des tâches",
+        "desc": "Affectation, statut et collaboration d'équipe."
+      },
+      "takvim": {
+        "title": "Agenda & Rendez-vous",
+        "desc": "Gestion de l'agenda, des rendez-vous et événements."
+      },
+      "teklif": {
+        "title": "Gestion des devis",
+        "desc": "Création de devis basés sur des modèles et suivi."
+      },
+      "sozlesme": {
+        "title": "Gestion des contrats",
+        "desc": "Création de contrats, approbation et suivi."
+      },
+      "katalog": {
+        "title": "Gestion du catalogue",
+        "desc": "Catalogue de produits, services et prix."
+      },
+      "simulator": {
+        "title": "Simulateur IA",
+        "desc": "Configurateur interactif et génération de leads."
+      },
+      "santral": {
+        "title": "Standard virtuel",
+        "desc": "Appels, postes internes et enregistrements."
+      },
+      "mesaj": {
+        "title": "Centre de messages",
+        "desc": "WhatsApp, Instagram et tous les messages au même endroit."
+      },
+      "mail": {
+        "title": "Gestion des e-mails",
+        "desc": "E-mail d'entreprise, modèles et suivi d'envoi."
+      },
+      "web": {
+        "title": "Web & Digital",
+        "desc": "Site web d'entreprise, contenu et marketing digital."
+      }
+    },
+    "why": {
+      "label": "La différence Corex360",
+      "title": "Pourquoi nous ?",
+      "body": "Laissez derrière vous les logiciels de bureau d'antan, les coûts de serveur et le chaos des données.",
+      "cta": "Architecture",
+      "features": [
+        "SLA de disponibilité 99,9 %",
+        "Database-Per-Tenant",
+        "App iOS & Android",
+        "Conforme RGPD/KVKK"
+      ]
+    }
+  },
+  "moduleDetail": {
+    "crumb": "Modules",
+    "primary": "Demander une démo",
+    "watch": "Voir le CRM",
+    "close": "Fermer",
+    "imageLabel": "Zone d'image",
+    "explore": "Découvrir",
+    "crm": {
+      "category": "Gestion de la relation client",
+      "titlePre": "Renforcez vos",
+      "titleEm": "relations clients.",
+      "lead": "Gérez tout le parcours, du prospect au client fidèle, sur un seul écran. Contacts, opportunités, devis, contrats et historiques de support se réunissent dans une mémoire client unique au sein de Corex360 CRM.",
+      "demoLabel": "Démo",
+      "demoTitle": "Découvrez le CRM en deux minutes.",
+      "demoSub": "Suivez en direct le flux principal, la fiche client 360° et le pipeline de vente visuel.",
+      "duration": "2:10",
+      "metrics": {
+        "label": "Impact",
+        "title": "Le CRM en chiffres.",
+        "items": [
+          {
+            "value": "360°",
+            "label": "une mémoire client unique"
+          },
+          {
+            "value": "40 %",
+            "label": "de premières réponses plus rapides"
+          },
+          {
+            "value": "3×",
+            "label": "plus de relances effectuées à temps"
+          },
+          {
+            "value": "99,9 %",
+            "label": "de disponibilité garantie"
+          }
+        ]
+      },
+      "integrations": {
+        "label": "Intégrations",
+        "title": "Compatible avec les outils que vous utilisez.",
+        "sub": "De WhatsApp à l'e-mail, de l'agenda à la comptabilité — vos données client restent synchronisées partout.",
+        "items": [
+          "WhatsApp",
+          "E-mail",
+          "Agenda",
+          "Comptabilité",
+          "Formulaires web",
+          "Téléphonie"
+        ],
+        "more": "et plus de 120 outils"
+      },
+      "proof": {
+        "label": "Sur le terrain",
+        "quote": "Au lieu de chercher l'historique client, nous consultons désormais une seule fiche. Notre temps de première réponse a été divisé par deux et plus aucun devis ne se perd.",
+        "author": "Directeur commercial",
+        "company": "EMS Yapı",
+        "trustLabel": "Les équipes qui nous font confiance"
+      },
+      "related": {
+        "label": "Plus puissants ensemble",
+        "title": "Le CRM est puissant seul, complet avec 360°.",
+        "sub": "Des modules qui partagent la même couche de données en temps réel, pour un flux continu du client à l'opérationnel.",
+        "items": [
+          {
+            "name": "ERP",
+            "desc": "Stocks, achats et finances dans un flux unique."
+          },
+          {
+            "name": "Business Intelligence",
+            "desc": "Tableaux de bord en direct et alertes d'anomalies."
+          }
+        ],
+        "trustLabel": "Sécurité & conformité"
+      },
+      "featuresLabel": "Points forts",
+      "featuresTitle": "Voyez le client en 360°, ne manquez aucune opportunité.",
+      "features": {
+        "card360": {
+          "title": "Fiche client 360°",
+          "desc": "Tout l'historique de chaque client — contact, opportunité, devis, contrat et support — sur un seul écran."
+        },
+        "pipeline": {
+          "title": "Pipeline de vente visuel",
+          "desc": "Gérez les opportunités par étape en glisser-déposer ; voyez aussitôt où ça bloque."
+        },
+        "quote": {
+          "title": "Devis & contrats",
+          "desc": "Créez un devis en quelques secondes depuis un modèle et faites-le approuver par signature électronique."
+        },
+        "activity": {
+          "title": "Activités",
+          "desc": "Partagez tâches, réunions et rendez-vous avec l'équipe ; aucun suivi oublié."
+        },
+        "ai": {
+          "title": "Analyse IA",
+          "desc": "L'IA signale automatiquement les opportunités à fort potentiel et les risques."
+        },
+        "lifecycle": {
+          "title": "Cycle de vie client",
+          "desc": "Gardez chaque étape, du prospect au client fidèle, visible et mesurable."
+        }
+      },
+      "insideLabel": "Dans le module",
+      "insideTitle": "Que contient le CRM ?",
+      "groups": {
+        "management": {
+          "label": "Gestion des clients",
+          "items": [
+            "Clients",
+            "Contacts",
+            "Opportunités",
+            "Devis",
+            "Contrats",
+            "Demandes de support"
+          ]
+        },
+        "activities": {
+          "label": "Activités",
+          "items": [
+            "Tâches",
+            "Réunions",
+            "Rendez-vous"
+          ]
+        }
+      },
+      "vision": {
+        "label": "Vision",
+        "title": "Une relation client, c'est plus qu'une vente conclue.",
+        "p1": "La plupart des entreprises voient le client comme une ligne dans un tableau, un nom dans un e-mail. Or chaque client est un historique de conversations, une attente et une relation de confiance qui se construit avec le temps.",
+        "p2": "Corex360 CRM réunit cette relation dans un seul enregistrement vivant. Du premier contact jusqu'au client fidèle, chaque e-mail, chaque devis, chaque appel et chaque note se rejoignent dans la même mémoire client.",
+        "quote": "Connaître le client, c'est déjà à moitié le garder."
+      },
+      "showcase": {
+        "label": "Écrans",
+        "title": "Voyez le CRM en action.",
+        "sub": "La liste des clients, la fiche client 360° et le pipeline de vente visuel — depuis le vrai panneau."
+      },
+      "lifecycle": {
+        "label": "Cycle de vie client",
+        "title": "Du prospect au client fidèle, chaque étape visible.",
+        "lead": "Le CRM gère chaque client en sachant exactement où il en est dans son parcours ; aucune opportunité ne se perd à une étape.",
+        "stages": [
+          {
+            "name": "Prospect",
+            "desc": "Premier contact, source et signaux d'intérêt."
+          },
+          {
+            "name": "En contact",
+            "desc": "Conversation active, découverte du besoin et suivi."
+          },
+          {
+            "name": "Opportunité",
+            "desc": "Devis, négociation et étapes vers la conclusion."
+          },
+          {
+            "name": "Client",
+            "desc": "Contrat, onboarding et première valeur."
+          },
+          {
+            "name": "Client fidèle",
+            "desc": "Ventes répétées, recommandations et relation durable."
+          }
+        ]
+      },
+      "faq": {
+        "label": "Questions fréquentes",
+        "title": "À propos du CRM",
+        "items": {
+          "integration": {
+            "q": "Comment le CRM fonctionne-t-il avec les autres modules ?",
+            "a": "Le CRM partage la même couche de données vivante que les modules ERP, devis et communication. Le devis, le contrat et la facture d'un client apparaissent automatiquement sur sa fiche."
+          },
+          "migration": {
+            "q": "Puis-je migrer mes données clients existantes ?",
+            "a": "Oui. Vous pouvez importer les données clients, contacts et opportunités via Excel, des systèmes CRM existants et l'API ; notre équipe accompagne la migration."
+          },
+          "mobile": {
+            "q": "Mon équipe commerciale peut-elle l'utiliser sur mobile ?",
+            "a": "Oui. Les apps iOS et Android donnent accès, depuis le terrain, à la fiche client, aux opportunités et aux tâches."
+          },
+          "ai": {
+            "q": "Que fait l'IA exactement ?",
+            "a": "L'IA signale les opportunités à fort potentiel, met en avant les clients à risque et suggère la meilleure action suivante."
+          },
+          "security": {
+            "q": "Nos données sont-elles en sécurité ?",
+            "a": "Vos données clients sont stockées chiffrées, isolées par locataire et conformes au KVKK/RGPD ; l'accès est basé sur les rôles et chaque action est journalisée."
+          }
+        }
+      }
+    }
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page que vous recherchez a peut-être été déplacée ou n'a jamais existé.",
+    "home": "Retour à l'accueil"
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Parlons.",
+    "titleAccent": "Voyez votre entreprise à 360°.",
+    "subtitle": "Démos, questions tarifaires ou partenariats — remplissez le formulaire et nous revenons vers vous en quelques heures. Vous êtes aussi le bienvenu dans l'un de nos deux bureaux.",
+    "form": {
+      "eyebrow": "Laissez un message",
+      "title": "Nous vous recontactons",
+      "sub": "Remplissez le formulaire, notre équipe vous répondra rapidement.",
+      "name": "Nom complet",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "company": "Société",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "submit": "Envoyer le message",
+      "sending": "Envoi…",
+      "note": "En envoyant, vous acceptez notre politique de confidentialité.",
+      "successTitle": "Votre message est parti",
+      "successBody": "Merci ! Notre équipe vous contactera très bientôt.",
+      "again": "Envoyer un autre message"
+    },
+    "subjects": {
+      "demo": "Demander une démo",
+      "sales": "Ventes et tarifs",
+      "support": "Support technique",
+      "partnership": "Partenariat",
+      "other": "Autre"
+    },
+    "offices": {
+      "eyebrow": "Nos bureaux",
+      "title": "Deux pôles, une équipe",
+      "lead": "Nous sommes des deux côtés d'Istanbul. Choisissez un bureau, la carte suit.",
+      "directions": "Itinéraire",
+      "active": "Sur la carte",
+      "itu": {
+        "name": "İTÜ Teknokent",
+        "tag": "Siège · R&D",
+        "address": "İTÜ ARI Teknokent, Campus Ayazağa, Maslak · Sarıyer / İstanbul"
+      },
+      "sancaktepe": {
+        "name": "Bureau de Sancaktepe",
+        "tag": "Opérations · Support",
+        "address": "Sancaktepe / İstanbul"
+      }
+    },
+    "channels": {
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "whatsapp": "WhatsApp",
+      "hours": "Horaires",
+      "hoursValue": "En semaine 09h00 – 18h00"
+    },
+    "mapAria": "Carte indiquant l'emplacement {name}"
+  },
+  "changelog": {
+    "label": "Notes de version",
+    "crumbResources": "Ressources",
+    "hero": {
+      "titlePre": "Notes de",
+      "titleEm": "version.",
+      "lead": "Ce que nous avons ajouté, amélioré et corrigé dans Corex360 à chaque version. Les nouveautés en premier."
+    },
+    "tags": {
+      "new": "Nouveau",
+      "improved": "Amélioration",
+      "fixed": "Correction"
+    },
+    "releases": {
+      "r24": {
+        "date": "Juin 2026",
+        "title": "Suivi de flotte & Corex Drive",
+        "items": {
+          "fleet": "Le module de suivi de véhicules/flotte est en ligne : localisation en direct, historique des trajets et rapports de carburant.",
+          "drive": "Corex Drive : un espace de classement qui réunit tous vos documents au même endroit.",
+          "inbox": "La boîte de réception omnicanale fusionne désormais aussi les DM Instagram dans un seul flux.",
+          "reports": "Correction d'un ralentissement lors de l'export de rapports sur de grands jeux de données."
+        }
+      },
+      "r23": {
+        "date": "Mai 2026",
+        "title": "WhatsApp & pipeline commercial",
+        "items": {
+          "whatsapp": "Intégration WhatsApp Business : répondez aux messages directement depuis la fiche CRM.",
+          "pipeline": "Le glisser-déposer du pipeline commercial a été accéléré et simplifié.",
+          "invoices": "Correction d'un rare saut de séquence dans la numérotation des factures."
+        }
+      },
+      "r22": {
+        "date": "Avril 2026",
+        "title": "Business intelligence & performance",
+        "items": {
+          "bi": "Nouveau tableau de bord BI : suivez le chiffre d'affaires, le stock et la performance des équipes sur un seul écran.",
+          "performance": "Temps de chargement initial amélioré jusqu'à 40 % sur mobile.",
+          "calendar": "Correction de l'affichage incorrect des rendez-vous récurrents dans la vue calendrier."
+        }
+      }
+    },
+    "latest": "Récent",
+    "shipped": "versions publiées"
+  },
+  "status": {
+    "label": "État du système",
+    "crumbResources": "Ressources",
+    "hero": {
+      "titlePre": "État du",
+      "titleEm": "système.",
+      "lead": "L'état en temps réel des services de Corex360 et les 90 derniers jours de performance. En cas de problème, vous le verrez ici."
+    },
+    "overall": {
+      "ok": "Tous les systèmes sont opérationnels",
+      "updated": "Dernière mise à jour : à l'instant"
+    },
+    "operational": "Opérationnel",
+    "services": {
+      "api": {
+        "name": "API",
+        "desc": "Points de terminaison REST & webhook"
+      },
+      "app": {
+        "name": "Application web",
+        "desc": "Tableau de bord et interface"
+      },
+      "inbox": {
+        "name": "Boîte omnicanale",
+        "desc": "Canaux WhatsApp, Instagram et web"
+      },
+      "database": {
+        "name": "Base de données",
+        "desc": "Couche de données principale et sauvegardes"
+      },
+      "drive": {
+        "name": "Corex Drive",
+        "desc": "Stockage et partage de fichiers"
+      },
+      "bi": {
+        "name": "Reporting & BI",
+        "desc": "Tableaux de bord et analyses"
+      }
+    },
+    "uptime": {
+      "label": "90 derniers jours — disponibilité",
+      "value": "Aucun incident",
+      "start": "Il y a 90 jours",
+      "end": "Aujourd'hui"
+    },
+    "incidents": {
+      "label": "Incidents passés",
+      "title": "Aucun incident ces 90 derniers jours.",
+      "none": "Aucune panne ni incident de performance enregistré ces 90 derniers jours."
+    },
+    "metrics": {
+      "uptime": {
+        "label": "Disponibilité",
+        "sub": "90 derniers jours"
+      },
+      "response": {
+        "label": "Réponse moy.",
+        "sub": "Tous les services"
+      },
+      "services": {
+        "label": "Services surveillés",
+        "sub": "Tous actifs"
+      },
+      "incidents": {
+        "label": "Incidents",
+        "sub": "90 derniers jours"
+      }
+    },
+    "chart": {
+      "label": "Temps de réponse",
+      "sub": "Dernières 24 heures"
+    },
+    "servicesSection": {
+      "label": "Services",
+      "title": "Chaque service, surveillé individuellement."
+    }
+  },
+  "blog": {
+    "hero": {
+      "titlePre": "Corex360",
+      "titleEm": "carnet.",
+      "lead": "Les coulisses du pilotage d'une entreprise depuis un seul centre : vision, produit, ingénierie et notes du terrain. Pas des formules marketing, mais l'opérationnel réel."
+    },
+    "categories": {
+      "vision": "Vision",
+      "product": "Produit",
+      "engineering": "Ingénierie",
+      "operations": "Opérations"
+    },
+    "meta": {
+      "readUnit": "min de lecture",
+      "by": "Par",
+      "featured": "À la une",
+      "read": "Lire l'article"
+    },
+    "back": "Tous les articles",
+    "posts": {
+      "tek-cati-altinda-360": {
+        "title": "360° sous un seul toit : l'histoire de la fermeture de huit applications",
+        "excerpt": "WhatsApp, CRM, stock, facturation, suivi de véhicules et archivage ne vivent plus dans des fenêtres séparées : comment l'entreprise change-t-elle lorsqu'ils se réunissent dans un seul centre de commande ?",
+        "date": "15 juin 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "La matinée d'un dirigeant d'entreprise commence souvent ainsi : un client en attente sur WhatsApp Web, un DM sans réponse sur Instagram, la facture d'hier dans un logiciel de comptabilité à part, un inventaire de stock sur un autre écran, et un chef d'équipe terrain qui se demande où se trouve le véhicule. Huit applications différentes, huit mots de passe différents et huit îlots de données qui s'ignorent mutuellement. Corex360 a été conçu précisément contre cet éparpillement : plutôt que de découper l'entreprise en huit morceaux, la piloter depuis un unique centre de commande à 360°."
+          },
+          {
+            "kind": "h",
+            "text": "Le coût réel de l'inflation d'applications"
+          },
+          {
+            "kind": "p",
+            "text": "Chaque nouvel outil coûte bien plus cher qu'une simple facture d'abonnement supplémentaire. Le véritable prix, c'est la fragmentation des données. Le client écrit sur WhatsApp, l'équipe commerciale le saisit dans un Excel, la facture est émise dans un autre logiciel, l'expédition est suivie dans un troisième endroit. Nulle part ne figure l'histoire complète de ce client. Quand une question se pose — « Combien lui avons-nous vendu, de quoi avons-nous parlé la dernière fois, son paiement est-il arrivé ? » — la réponse mobilise trois personnes, trois écrans et une demi-heure."
+          },
+          {
+            "kind": "p",
+            "text": "La perte de contexte est une fuite silencieuse. Le lead qui tombe entre deux canaux, la facture émise deux fois, le produit affiché en stock mais absent de l'entrepôt, l'ordre de travail dont on ne sait à quel véhicule il est affecté. Rien de tout cela n'est une crise en soi ; mais répété chaque jour, c'est cette friction invisible qui détermine la vitesse réelle de l'entreprise."
+          },
+          {
+            "kind": "quote",
+            "text": "Le problème n'est pas le nombre d'applications, mais le fait qu'aucune ne voit l'entreprise dans son intégralité."
+          },
+          {
+            "kind": "h",
+            "text": "Ce que change une source unique de vérité"
+          },
+          {
+            "kind": "p",
+            "text": "Dans Corex360, chaque message venu de WhatsApp, Instagram ou d'un formulaire web tombe dans la même boîte de réception ; chaque interlocuteur devient automatiquement un contact CRM et avance comme une opportunité dans le pipeline commercial. Sous une même fiche client se côtoient l'historique des conversations, les factures émises, les produits sortis du stock et — s'il s'agit d'une intervention terrain — l'itinéraire du véhicule qui s'y rend. Lorsque la donnée est à un seul endroit, le contexte aussi."
+          },
+          {
+            "kind": "p",
+            "text": "Cette unification n'est pas qu'un confort, c'est une question de qualité de décision. Quand le stock et les ventes sont sous le même toit, vous voyez quel produit tourne réellement ; quand la finance et le CRM se rejoignent, quel client est rentable ; quand le suivi des véhicules et les ordres de travail se croisent, quelle équipe terrain travaille efficacement — le tout sur un seul tableau de bord BI. Vous ne cherchez pas à fusionner huit rapports ; le rapport naît déjà unifié."
+          },
+          {
+            "kind": "h",
+            "text": "Le 360° ne devrait pas être un luxe, mais la norme"
+          },
+          {
+            "kind": "p",
+            "text": "Diriger une entreprise ne devrait pas être l'art de maintenir huit onglets synchronisés. La vision de Corex360 est simple : communication, ventes, production, logistique, finance et documents — tous dans un seul système qui parle la même langue. Quand vous cessez de changer de fenêtre, vous regagnez le temps de revenir à votre vrai métier : faire grandir l'entreprise."
+          },
+          {
+            "kind": "p",
+            "text": "Un centre de commande vaut plus que la somme de huit applications, car il les fait dialoguer entre elles. Toute l'histoire de Corex360 tient dans cette phrase : au lieu de gérer l'éparpillement, le supprimer."
+          }
+        ]
+      },
+      "omnichannel-gelen-kutusu": {
+        "title": "Chaque message est une opportunité : comment la boîte de réception omnicanale se transforme en vente",
+        "excerpt": "Chaque conversation issue de WhatsApp, d'un DM Instagram ou d'un formulaire web se regroupe dans une seule boîte de réception, devient un contact CRM et avance dans le pipeline sans jamais se perdre.",
+        "date": "28 mai 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Le client écrit une fois sur WhatsApp, une fois sur Instagram, une fois via le formulaire du site web. Trois canaux qui, dans la plupart des entreprises, forment trois mondes distincts : l'un au téléphone, l'autre chez l'équipe réseaux sociaux, le troisième dans une boîte e-mail dont personne n'ouvre la messagerie. Le résultat est connu de tous — la question restée sans réponse, la demande arrivée le soir et oubliée au matin, la confusion de deux personnes qui répondent différemment au même client. La boîte de réception omnicanale ramène ces trois mondes sur un seul écran."
+          },
+          {
+            "kind": "h",
+            "text": "Une seule boîte de réception, un seul champ de vision"
+          },
+          {
+            "kind": "p",
+            "text": "Dans Corex360, le message WhatsApp, le DM Instagram et le formulaire web tombent dans le même flux. Un badge indique de quel canal il provient ; mais pour répondre, vous ne changez pas de fenêtre. L'équipe voit la même conversation, on sait qui s'en charge, le passage de relais se fait en un clic. La question « Qui a vu ce message ? » disparaît, car tout le monde regarde le même tableau."
+          },
+          {
+            "kind": "p",
+            "text": "L'essentiel, c'est que la rapidité devienne visible. Qui répond en combien de temps, quel canal génère le plus de questions, quelle conversation se transforme en opportunité — tout se mesure au même endroit. La boîte de réception cesse d'être un amas pour devenir l'embouchure d'un pipeline commercial."
+          },
+          {
+            "kind": "quote",
+            "text": "La valeur d'une conversation ne se révèle pas dans le canal d'où elle vient, mais dans l'endroit où elle va."
+          },
+          {
+            "kind": "h",
+            "text": "Du message au contact CRM, du contact à l'opportunité"
+          },
+          {
+            "kind": "p",
+            "text": "La vraie transformation se produit ici : chaque interlocuteur entrant devient automatiquement un contact CRM. Le premier message « Bonjour, puis-je avoir un prix ? » devient un enregistrement doté d'un nom, d'un canal et d'un historique. Ce contact s'ouvre comme une opportunité dans le pipeline ; du premier contact au devis, du devis à la signature, chaque étape reste sur sa fiche. Aucun lead ne tombe dans l'interstice entre les canaux."
+          },
+          {
+            "kind": "p",
+            "text": "Vous répondez directement depuis la fiche client. Face à vous, il n'y a pas qu'une bulle de conversation : il y a tout l'historique de ce client, ses commandes passées, ses opportunités ouvertes et même — lorsque c'est intégré — ses factures. En rédigeant votre réponse, vous savez qui il est, ce qu'il a déjà acheté et à quelle étape il se trouve. Vous ne menez pas un support générique, mais une conversation commerciale dotée de contexte."
+          },
+          {
+            "kind": "h",
+            "text": "Le lead qui ne se perd pas, la vente qui se conclut"
+          },
+          {
+            "kind": "p",
+            "text": "La plupart des ventes ne se perdent pas à cause d'un mauvais produit, mais faute de suivi. C'est la promesse silencieuse de la boîte de réception omnicanale : aucune conversation ne reste en suspens, aucune opportunité ne reste sans propriétaire, aucun client ne part chez le concurrent en se disant « je crois que personne ne m'a répondu ». Ce qui transforme un message en vente n'est pas magique ; c'est le fait que chaque contact avance à un seul endroit, sur un seul pipeline et avec une seule responsabilité assignée."
+          },
+          {
+            "kind": "p",
+            "text": "Quand le mur entre l'équipe réseaux sociaux et l'équipe commerciale tombe, un like venu d'Instagram comme une question venue de WhatsApp sont gérés avec la même rigueur. Le trafic marketing commence vraiment à se convertir en chiffre d'affaires — parce que vous savez désormais où va ce trafic."
+          }
+        ]
+      },
+      "multi-tenant-mimari": {
+        "title": "Des milliers d'entreprises, un seul cœur : faire passer à l'échelle une architecture multi-tenant",
+        "excerpt": "Isolation des données, un cœur unique servant des milliers de tenants, synchronisation temps réel pilotée par les événements et conformité KVKK par tenant — vu depuis la production.",
+        "date": "14 mai 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Un SaaS multi-tenant ressemble, vu de l'extérieur, à une application unique ; à l'intérieur, c'est une discipline qui porte les données de milliers d'entreprises sur un même cœur, sans jamais les laisser se toucher. C'est aussi le thème immuable du webinaire d'ingénierie que Corex360 organise chaque mois : comment bâtir un système avec une seule base de code, une seule infrastructure, mais qui donne à chaque tenant le sentiment d'avoir son propre monde."
+          },
+          {
+            "kind": "h",
+            "text": "Isolation : par schéma ou par ligne ?"
+          },
+          {
+            "kind": "p",
+            "text": "La première décision, et la plus critique, est celle de l'isolation des données. Deux grandes approches existent : un schéma distinct par tenant (schema-per-tenant) ou l'étiquetage de chaque ligne d'une table partagée par un tenant_id (row-level). L'approche par schéma offre une séparation physique forte et des sauvegardes simples, mais gérer des dizaines de milliers de schémas alourdit les migrations. L'approche par ligne est légère sur le plan opérationnel et passe bien à l'échelle ; mais une seule condition WHERE manquante est une catastrophe. En pratique, c'est l'hybride qui l'emporte : isolation par ligne pour la plupart des modules + politiques de sécurité au niveau ligne (RLS) imposées au niveau de la base de données, et séparation logique pour les grands tenants entreprise."
+          },
+          {
+            "kind": "p",
+            "text": "L'essentiel est d'imposer l'isolation à la couche la plus basse possible, et non en se fiant au code applicatif. Un développeur qui oublie d'ajouter à la main le filtre tenant_id à chaque requête finira un jour par laisser fuir les données d'un autre tenant. C'est pourquoi le filtre est enfoui dans la politique de la base de données et dans la couche de requête commune ; même s'il voulait le contourner, le développeur ne le pourrait pas."
+          },
+          {
+            "kind": "quote",
+            "text": "Dans une architecture multi-tenant, la sécurité n'est pas une fonctionnalité mais un comportement par défaut ; pas une exception, mais la règle."
+          },
+          {
+            "kind": "h",
+            "text": "Un cœur unique, une synchronisation temps réel"
+          },
+          {
+            "kind": "p",
+            "text": "Dans Corex360, un message arrivé de WhatsApp doit apparaître simultanément dans la boîte de réception, sur la fiche CRM et sur le tableau de bord BI. Nous résolvons cela non pas en interrogeant sans cesse chaque écran, mais grâce à une colonne vertébrale pilotée par les événements (event-driven) : quand quelque chose se produit — nouveau message, facture émise, véhicule en mouvement — le système publie un événement, les modules concernés l'écoutent et se mettent à jour. Même lorsqu'un cœur unique sert des milliers de tenants, les événements de chaque tenant ne circulent qu'à l'intérieur de ses propres frontières."
+          },
+          {
+            "kind": "p",
+            "text": "Cette architecture maintient les modules faiblement couplés. Le module de suivi des véhicules n'a pas besoin de connaître la structure interne du module de stock ; tous deux parlent le même langage d'événements. Ajouter un nouveau module ne consiste pas à réécrire le cœur, mais à greffer un nouvel auditeur sur le flux. Le secret du passage à l'échelle n'est pas de gérer la taille, mais l'indépendance."
+          },
+          {
+            "kind": "h",
+            "text": "Droits par tenant et KVKK/GDPR"
+          },
+          {
+            "kind": "p",
+            "text": "En Turquie le KVKK, en Europe le GDPR — tous deux exigent une réponse claire à la question « à qui appartient la donnée et qui peut la voir ». Dans un système multi-tenant, cela signifie une autorisation à deux niveaux : d'abord la frontière du tenant (l'utilisateur d'une entreprise ne peut jamais accéder aux données d'une autre), puis les rôles internes au tenant (le chef d'équipe terrain voit les données des véhicules, le comptable les factures, sans que tout le monde voie tout)."
+          },
+          {
+            "kind": "p",
+            "text": "Le visage concret de la conformité, c'est l'auditabilité : qui a accédé à quelle donnée, et quand ; lorsque la suppression des données d'un tenant est demandée, l'effacement réel et exclusif des traces de ce seul tenant ; la possibilité d'appliquer des durées de conservation par tenant. Une bonne architecture multi-tenant ne porte pas le KVKK comme une couche de conformité collée après coup, mais comme la conséquence naturelle de la décision d'isolation."
+          }
+        ]
+      },
+      "saha-ekipleri-arac-takip": {
+        "title": "Ramener le terrain au centre : suivi des véhicules, ordres de travail et Corex Drive",
+        "excerpt": "Suivi des véhicules en direct, gestion des ordres de travail et archivage documentaire avec Corex Drive — amener l'opération terrain sous le même toit que les ventes et la finance.",
+        "date": "23 avril 2026",
+        "blocks": [
+          {
+            "kind": "p",
+            "text": "Dans la plupart des entreprises, le terrain est l'angle mort du bureau. Les ventes vivent dans le CRM, la finance dans la comptabilité ; mais l'emplacement du véhicule se loge dans des conversations téléphoniques, l'ordre de travail dans un groupe WhatsApp, et le bon de livraison dans la photo du téléphone de quelqu'un. Corex360 sort le terrain de son statut de département périphérique pour le placer au cœur du même centre de commande : véhicule, ordre de travail et document — côte à côte avec les ventes et la finance."
+          },
+          {
+            "kind": "h",
+            "text": "Savoir où se trouve le véhicule, c'est connaître le plan"
+          },
+          {
+            "kind": "p",
+            "text": "Le suivi des véhicules en direct n'est pas qu'un point sur une carte. Lorsque la position, l'itinéraire parcouru et les données de carburant se rejoignent, l'image réelle du terrain apparaît : quel véhicule se rend à quelle mission, y a-t-il un écart par rapport à l'itinéraire prévu, la consommation de carburant est-elle normale, quand atteindra-t-il la prochaine livraison. Quand le client demande « Quand l'équipe arrive-t-elle ? », vous ne formulez pas une supposition : vous regardez l'écran et vous répondez."
+          },
+          {
+            "kind": "p",
+            "text": "La donnée véhicule a déjà de la valeur en tant que tableau de bord à elle seule ; mais sa vraie puissance se révèle lorsqu'elle se combine à l'ordre de travail. L'itinéraire n'est plus une ligne abstraite, mais un mouvement rattaché à un client précis et à une mission précise."
+          },
+          {
+            "kind": "quote",
+            "text": "Quand le terrain est invisible, il est ingérable ; lorsqu'il entre sous le même toit, il devient mesurable."
+          },
+          {
+            "kind": "h",
+            "text": "L'ordre de travail : la trace du travail du début à la fin"
+          },
+          {
+            "kind": "p",
+            "text": "Un ordre de travail est, pour le terrain, l'unité qui correspond à l'opportunité dans le CRM. Quel client, quelle mission, quelle équipe, quel véhicule, dans quel état — le tout est suivi dans un seul enregistrement, du moment de son ouverture jusqu'à sa clôture. L'équipe terrain voit la mission depuis son téléphone, met à jour le statut, la marque comme effectuée ; le bureau, lui, voit en même temps l'état en direct de chaque ordre de travail, les retards et le taux d'achèvement. La coordination éparpillée dans les groupes WhatsApp se rassemble en un seul flux."
+          },
+          {
+            "kind": "p",
+            "text": "L'histoire ne s'arrête pas à la clôture de l'ordre de travail. La facture de cette mission est émise dans le module finance, le produit utilisé est déduit du stock, l'événement est ajouté à l'historique de la fiche client. La rupture entre le terrain et le back-office disparaît — car tous deux sont les deux faces du même enregistrement."
+          },
+          {
+            "kind": "h",
+            "text": "Corex Drive : garder le document aux côtés de la mission"
+          },
+          {
+            "kind": "p",
+            "text": "Chaque mission terrain laisse un document : procès-verbal de livraison, bon de livraison signé, photo de montage, formulaire de garantie. Lorsque ceux-ci se perdent dans les galeries de téléphones et les pièces jointes d'e-mails, trouver une preuve en cas de litige devient impossible. Corex Drive conserve le document exactement là où il appartient — aux côtés de l'ordre de travail, de la fiche client et de la facture. Pour le document que vous cherchez, vous n'ouvrez pas un dossier, mais l'enregistrement concerné."
+          },
+          {
+            "kind": "p",
+            "text": "C'est là l'essence de l'idée d'amener l'opération terrain dans le même hub que les ventes et la finance : véhicule, ordre de travail et document ne sont plus des fragments de données vivant dans des systèmes séparés, mais des maillons d'une même ligne du parcours client. La vision à 360° de l'entreprise ne s'arrête pas à la vitre du bureau : elle s'achève au point le plus reculé du terrain."
+          }
+        ]
+      }
+    },
+    "label": "Blog",
+    "crumbResources": "Ressources",
+    "related": "Articles liés"
+  }
+}
