@@ -452,23 +452,6 @@
       "careersTitle": "Carrières",
       "careersSub": "Envie de marcher vers la même vision avec nous ?"
     },
-    "founders": {
-      "label": "Fondateurs",
-      "title": "Deux forces distinctes, un même objectif.",
-      "body": "Au cœur de Corex360 se rencontrent un regard stratégique qui lit l'activité sur le terrain et un esprit d'ingénieur qui conçoit la technologie en profondeur.",
-      "body2": "Né aujourd'hui de l'union de ces deux forces, Corex360 ne se positionne pas comme un simple logiciel que l'on utilise, mais comme une plateforme de gestion qui contribue directement à la décision, au suivi et à la croissance des entreprises.",
-      "yasin": {
-        "name": "Yasin Savaş",
-        "role": "Associé fondateur · Stratégie & Business",
-        "bio": "Donne la direction de la plateforme par sa vision commerciale, son réflexe entrepreneurial et sa maîtrise des processus métier."
-      },
-      "sevket": {
-        "name": "Şevket Erer",
-        "role": "Associé fondateur · Technologie",
-        "bio": "A construit la structure technique qui transforme cette vision en une base logicielle puissante, flexible et durable."
-      },
-      "close": "Corex360 est porté par la vision commune de deux associés qui ont vécu le besoin sur le terrain."
-    },
     "values": {
       "label": "Nos valeurs",
       "items": [

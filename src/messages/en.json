@@ -452,23 +452,6 @@
       "careersTitle": "Careers",
       "careersSub": "Want to walk toward the same vision with us?"
     },
-    "founders": {
-      "label": "Founders",
-      "title": "Two distinct forces, one goal.",
-      "body": "At the heart of Corex360 sit a strategic eye that reads business in the field and an engineering mind that designs technology in depth.",
-      "body2": "Born today from the union of these two forces, Corex360 stands not merely as software that gets used, but as a management platform that contributes directly to how businesses decide, track and grow.",
-      "yasin": {
-        "name": "Yasin Savaş",
-        "role": "Founding Partner · Strategy & Business",
-        "bio": "Sets the platform's direction through commercial vision, entrepreneurial instinct and a firm command of business processes."
-      },
-      "sevket": {
-        "name": "Şevket Erer",
-        "role": "Founding Partner · Technology",
-        "bio": "Built the technical structure that turns that vision into a powerful, flexible and sustainable software foundation."
-      },
-      "close": "Corex360 is led by the shared vision of two partners who lived the need on the ground."
-    },
     "values": {
       "label": "Our values",
       "items": [

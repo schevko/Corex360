@@ -7,7 +7,6 @@ import { CircleCta } from "@/components/marketing/circle-cta";
 import { EditorialHero } from "@/components/marketing/editorial-hero";
 import { Reveal } from "@/components/ui/reveal";
 import { Logo } from "@/components/ui/logo";
-import { cn } from "@/lib/utils";
 
 export async function generateMetadata({
   params,
@@ -22,65 +21,6 @@ export async function generateMetadata({
     title: t("label"),
     description: t("lead"),
   });
-}
-
-/** Founder/team photo paths — drop the files in public/team/ and they appear.
- *  Missing files degrade gracefully to the placeholder (background-image, no
- *  broken-icon). */
-const FOUNDER_PHOTO: Record<string, string | null> = {
-  yasin: "/team/yasin.jpg",
-  sevket: "/team/sevket.png",
-};
-
-/** Elegant representative image placeholder — pass `src` once a real image
- *  exists; otherwise a labelled placeholder is shown. */
-function ImageSlot({
-  className,
-  label,
-  src,
-}: {
-  className?: string;
-  label: string;
-  src?: string | null;
-}) {
-  if (src) {
-    return (
-      <div
-        className={cn(
-          "relative overflow-hidden rounded-3xl border border-border bg-surface-2 bg-cover bg-center",
-          className
-        )}
-        style={{ backgroundImage: `url(${src})` }}
-      />
-    );
-  }
-  return (
-    <div
-      className={cn(
-        "relative overflow-hidden rounded-3xl border border-border bg-surface-2",
-        className
-      )}
-    >
-      <div
-        aria-hidden
-        className="absolute inset-0 opacity-[0.5]"
-        style={{
-          backgroundImage:
-            "repeating-linear-gradient(135deg, color-mix(in srgb, var(--foreground) 5%, transparent) 0 1px, transparent 1px 22px)",
-        }}
-      />
-      <div className="absolute inset-0 grid place-items-center">
-        <span className="flex flex-col items-center gap-2 text-muted-2">
-          <svg viewBox="0 0 24 24" className="size-7" fill="none" stroke="currentColor" strokeWidth="1.4">
-            <rect x="3" y="3" width="18" height="18" rx="3" />
-            <circle cx="8.5" cy="9" r="1.6" />
-            <path d="M21 16l-5-5L5 21" />
-          </svg>
-          <span className="text-[11px] uppercase tracking-[0.18em]">{label}</span>
-        </span>
-      </div>
-    </div>
-  );
 }
 
 type Value = { title: string; desc: string };
@@ -180,47 +120,6 @@ export default async function AboutPage({
                 </span>
               </div>
             </div>
-          </Reveal>
-        </div>
-      </section>
-
-      {/* Founders */}
-      <section className="border-y border-border bg-surface-2 py-24 lg:py-28">
-        <div className="mx-auto max-w-6xl px-6">
-          <Reveal className="max-w-2xl">
-            <p className="text-sm font-medium text-muted">{t("founders.label")}</p>
-            <h2 className="mt-4 font-display text-3xl font-semibold leading-[1.12] tracking-tight sm:text-4xl">
-              {t("founders.title")}
-            </h2>
-            <p className="mt-5 text-base leading-relaxed text-muted">{t("founders.body")}</p>
-            <p className="mt-4 text-base leading-relaxed text-muted">{t("founders.body2")}</p>
-          </Reveal>
-
-          <div className="mt-14 grid gap-8 sm:grid-cols-2">
-            {(["yasin", "sevket"] as const).map((f, i) => (
-              <Reveal key={f} style={{ animationDelay: `${i * 90}ms` }}>
-                <ImageSlot
-                  className="aspect-[4/5]"
-                  label={t("imageLabel")}
-                  src={FOUNDER_PHOTO[f]}
-                />
-                <h3 className="mt-6 font-display text-2xl font-semibold tracking-tight">
-                  {t(`founders.${f}.name`)}
-                </h3>
-                <p className="mt-1 text-sm font-medium text-accent">
-                  {t(`founders.${f}.role`)}
-                </p>
-                <p className="mt-4 max-w-md text-sm leading-relaxed text-muted">
-                  {t(`founders.${f}.bio`)}
-                </p>
-              </Reveal>
-            ))}
-          </div>
-
-          <Reveal style={{ animationDelay: "220ms" }}>
-            <p className="mt-14 max-w-2xl border-s-2 border-border-strong ps-5 font-display text-lg font-medium leading-relaxed text-foreground/90 sm:text-xl">
-              {t("founders.close")}
-            </p>
           </Reveal>
         </div>
       </section>

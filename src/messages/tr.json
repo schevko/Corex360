@@ -737,23 +737,6 @@
       "careersTitle": "Kariyer",
       "careersSub": "Bizimle aynı vizyona yürümek ister misiniz?"
     },
-    "founders": {
-      "label": "Kurucular",
-      "title": "Aynı hedefe bakan iki farklı güç.",
-      "body": "Corex360'ın temelinde, işi sahada okuyan stratejik bakış ile teknolojiyi derinlemesine kurgulayan mühendislik aklı bulunur.",
-      "body2": "Corex360 bugün bu iki gücün birleşimiyle; yalnızca kullanılan değil, işletmelerin karar alma, takip ve büyüme düzenine doğrudan katkı sağlayan bir yönetim platformu olarak konumlanıyor.",
-      "yasin": {
-        "name": "Yasin Savaş",
-        "role": "Kurucu Ortak · Strateji & İş",
-        "bio": "Ticari vizyonu, girişimci refleksi ve işletme süreçlerine olan hâkimiyetiyle platformun yönünü belirliyor."
-      },
-      "sevket": {
-        "name": "Şevket Erer",
-        "role": "Kurucu Ortak · Teknoloji",
-        "bio": "Bu vizyonu güçlü, esnek ve sürdürülebilir bir yazılım altyapısına dönüştüren teknik yapıyı inşa etti."
-      },
-      "close": "Corex360, sahadaki ihtiyacı bizzat yaşamış iki ortağın ortak vizyonuyla yönetiliyor."
-    },
     "values": {
       "label": "Değerlerimiz",
       "items": [
